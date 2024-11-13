@@ -15,10 +15,10 @@ http://181.78.27.128:8000/play/a009/index.m3u8
 https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="ARGENTINA", TN
-http://live.budtvlight.com:25461/bud-4002278/95fd274a18/278775
+https://live.budtvlight.com:25461/bud-4002278/95fd274a18/278769
 
 #EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" tvg-id="LaNacionPlus.ar" group-title="ARGENTINA", LN+
-http://live.budtvlight.com:25461/bud-4002278/95fd274a18/278769
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
