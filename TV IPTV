@@ -9,10 +9,10 @@ http://181.78.27.128:8000/play/a055/index.m3u8
 http://181.78.27.128:8000/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" group-title="ARGENTINA", C5N
-rtmp://c5n.stweb.tv:1935/c5n/live
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="ARGENTINA", A24
-http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8
+https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="ARGENTINA", TN
 rtsp://stream.tn.com.ar/live/tnhd1
@@ -21,7 +21,7 @@ rtsp://stream.tn.com.ar/live/tnhd1
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", TELEFE
-rtmp://podi.hopper.pw:443/live/live_beto_3
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA", El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -48,7 +48,7 @@ http://tvmate.icu:8080/Ss5DKE/232455/57698
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94875.ts
  
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/40.png" group-title="DEPORTES", TyC
-rtmp://podi.hopper.pw:443/live/live_afatv1
+http://181.78.27.128:8000/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D4XMJV0/espnar.png" group-title="DEPORTES", ESPN
 http://c24u.xyz:8080/Rivera2020/Rivera2020/332898.m3u8
@@ -81,10 +81,10 @@ https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://new-international-23-secure2.akamaized.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9b0mC0D/cnn.png" group-title="ARGENTINA", CNN ESPAÑOL
-http://187.247.255.139/apple/CNNEspanol1200.m3u8
+http://181.78.27.128:8000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" group-title="España", ANTENA 3
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+http://127319456298321106.ofd92622.xyz:80/live/me416962/dC@bdh@pEPSP/321106.m3u8
 
 #EXTINF:-1 tvg-id="622f42b831233300078658cc" tvg-chno="51" tvg-logo="https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png" group-title="Pluto TV", Ciudadanos por el mundo
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/622f42b831233300078658cc/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
