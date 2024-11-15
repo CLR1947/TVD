@@ -15,10 +15,10 @@ http://181.78.27.128:8000/play/a009/index.m3u8
 https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="ARGENTINA", TN
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0059
+http://daleplay.club:8080/live/3848Yevkerkkk/Menrhrh73646aeatT/22d2a505-2c6c-4426-97de-5c264b0cce02.m3u8
 
 #EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" tvg-id="LaNacionPlus.ar" group-title="ARGENTINA", LN+
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0078
+http://daleplay.club:8080/live/3848Yevkerkkk/Menrhrh73646aeatT/df38a11c-4c28-4c16-9039-ae4fd142ac0f.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
