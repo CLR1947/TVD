@@ -57,10 +57,10 @@ http://200.60.124.19:29000/play/a016/index.m3u8
 http://200.60.124.19:29000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jBMLyH/Espnpr.png" group-title="DEPORTES", ESPN PREMIUM
-https://xyzdddd.mizhls.ru/lb/premium387/index.m3u8|Origin=https://qqwebplay.xy|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium387/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w4n3ZSB/tntsportsar.png" group-title="DEPORTES", TNT SPORTS
-http://181.78https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
+https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" group-title="DEPORTES", FOX SPORTS
 https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
