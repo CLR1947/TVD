@@ -57,7 +57,7 @@ http://200.60.124.19:29000/play/a016/index.m3u8
 http://200.60.124.19:29000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jBMLyH/Espnpr.png" group-title="DEPORTES", ESPN PREMIUM
-https://xyzdddd.mizhls.ru/lb/premium387/index.m3u8
+https://dsr.ride.com.ar/tvmia/c07/playlist.m3u8|license_type=clearkey&license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w4n3ZSB/tntsportsar.png" group-title="DEPORTES", TNT SPORTS
 https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
