@@ -9,7 +9,7 @@ http://181.78.27.128:8000/play/a055/index.m3u8
 http://181.78.27.128:8000/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" group-title="ARGENTINA", C5N
-http://181.78.27.128:8000/play/a061/index.m3u8
+http://181.209.95.29:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="ARGENTINA", A24
 https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
@@ -21,7 +21,7 @@ https://dsr.ride.com.ar/tvmia/an07/playlist.m3u8
 https://dsr.ride.com.ar/tvmia/an14/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", TELEFE
-http://181.78.27.128:8000/play/a05x/index.m3u8
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA", El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -48,7 +48,7 @@ http://tvmate.icu:8080/Ss5DKE/232455/57698
 http://179.189.222.226:8000/play/ch27
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/40.png" group-title="DEPORTES", TyC
-http://181.78.27.128:8000/play/a063/index.m3u8
+http://181.209.95.29:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D4XMJV0/espnar.png" group-title="DEPORTES", ESPN
 http://200.60.124.19:29000/play/a016/index.m3u8
@@ -57,7 +57,7 @@ http://200.60.124.19:29000/play/a016/index.m3u8
 http://200.60.124.19:29000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jBMLyH/Espnpr.png" group-title="DEPORTES", ESPN PREMIUM
-https://dsr.ride.com.ar/tvmia/c07/playlist.m3u8|license_type=clearkey&license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+http://181.209.95.29:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w4n3ZSB/tntsportsar.png" group-title="DEPORTES", TNT SPORTS
 https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
