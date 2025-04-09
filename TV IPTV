@@ -1,7 +1,7 @@
 #EXTM3U   list - name="TV Casa M3U"
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="ARGENTINA", 26
-https://delivery.cdn.rcs.net.ar/mnp/canal26_hls/playlist.m3u8
- 
+http://181.209.95.29:8000/play/a01r/index.m3u8
+
 #EXTINF:-1 tvg-id="IPNoticias.ar" tvg-logo="https://i.imgur.com/dbu9nx4.png" group-title="ARGENTINA", IP Noticias
 http://181.78.27.128:8000/play/a055/index.m3u8
 
@@ -12,7 +12,7 @@ http://181.78.27.128:8000/play/a04k/index.m3u8
 http://181.209.95.29:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="ARGENTINA", A24
-https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
+ http://181.209.95.29:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="ARGENTINA", TN
 http://181.209.95.29:8000/play/a0a6/index.m3u8
@@ -60,13 +60,13 @@ http://181.209.95.29:8000/play/a0ac/index.m3u8
 http://181.209.95.29:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w4n3ZSB/tntsportsar.png" group-title="DEPORTES", TNT SPORTS
-https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
+http://181.209.95.29:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" group-title="DEPORTES", FOX SPORTS
-https://dsr.ride.com.ar/tvmia/an23/playlist.m3u8
+http://181.209.95.29:8000/play/a07j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3ryQDk2/foxsports2ar.png" group-title="DEPORTES", FOX SPORTS 2
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
+http://181.209.95.29:8000/play/a0aa/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/31J8G4X/TVE.png" group-title="España", TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
@@ -98,7 +98,5 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u
 #EXTINF:-1 tvg-id="60c343ad476ec00007c2ec1a" tvg-chno="635" tvg-logo="https://images.pluto.tv/channels/60c343ad476ec00007c2ec1a/colorLogoPNG.png" group-title="Pluto TV", PlutoTV Viajes
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 tvg-id="60c343ad476ec00007c2ec1a" tvg-chno="635" tvg-logo="https://i.pinimg.com/736x/d3/f9/99/d3f999a8c1fec9642748cedd54e3dd94.jpg" group-title="Pluto TV", Tastemade
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="60c343ad476ec00007c2ec1a" tvg-chno="635" tvg-logo="https://i.pinimg.com/736x/d3/f9/99/d3f999a8c1fec9642748cedd54e3dd94.jpg" group-title="Pluto TV", Tastemade
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
