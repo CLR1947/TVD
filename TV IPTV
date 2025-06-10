@@ -1,6 +1,6 @@
 #EXTM3U list - name="TV Casa M3U" 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="ARGENTINA", 26 
-http://181.209.95.29:8000/play/a01r/index.m3u8 
+http://181.209.114.13:8000/play/a01r/index.m3u8
  
 #EXTINF:-1 tvg-id="IPNoticias.ar" tvg-logo="https://i.imgur.com/dbu9nx4.png" group-title="ARGENTINA", IP Noticias 
 http://200.55.244.75:8000/play/a0eb/index.m3u8 
@@ -12,7 +12,7 @@ http://181.78.27.128:8000/play/a04k/index.m3u8
 http://200.55.244.75:8000/play/a01p/index.m3u8 
  
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="ARGENTINA", A24 
-http://181.209.95.29:8000/play/a01o/index.m3u8 
+http://200.55.244.75:8000/play/a01o/index.m3u8
  
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="ARGENTINA", TN 
 http://200.55.244.75:8000/play/a058/index.m3u8 
