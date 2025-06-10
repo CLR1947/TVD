@@ -60,7 +60,7 @@ http://novabox.club/live/conectStreax/K2tbMNebMW/177589.m3u8
 http://novabox.club/live/conectStreax/K2tbMNebMW/191290.m3u8 
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w4n3ZSB/tntsportsar.png" group-title="DEPORTES", TNT SPORTS 
-http://novabox.club/live/conectStreax/K2tbMNebMW/177601.m3u8 
+http://200.55.244.75:8000/play/a0bc/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" group-title="DEPORTES", FOX SPORTS 
 http://novabox.club/live/conectStreax/K2tbMNebMW/185773.m3u8 
