@@ -42,16 +42,16 @@ https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Pl
 https://dsr.ride.com.ar/tvmia/an42/playlist.m3u8 
  
 #EXTINF:-1 tvg-logo="https://pt.m.wikipedia.org/wiki/Canal_Cocina#/media/Ficheiro%3ACanal_Cocina_logo.png" group-title="España", CANAL COCINA 
-http://tvmate.icu:8080/Ss5DKE/232455/57698 
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true 
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6r6Qmn2/gourmet.png" group-title="ARGENTINA", GOURMET 
-http://179.189.222.226:8000/play/ch27 
+http://181.209.114.13:8000/play/a06w/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/40.png" group-title="DEPORTES", TyC 
 http://200.55.244.75:8000/play/a02s/index.m3u8 
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D4XMJV0/espnar.png" group-title="DEPORTES", ESPN 
-http://novabox.club/live/conectStreax/K2tbMNebMW/209836.m3u8 
+http://200.55.244.75:8000/play/a05a/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G3X7twQ/espn2ar.png" group-title="DEPORTES", ESPN 2 
 http://novabox.club/live/conectStreax/K2tbMNebMW/177589.m3u8 
@@ -60,7 +60,7 @@ http://novabox.club/live/conectStreax/K2tbMNebMW/177589.m3u8
 http://novabox.club/live/conectStreax/K2tbMNebMW/191290.m3u8 
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w4n3ZSB/tntsportsar.png" group-title="DEPORTES", TNT SPORTS 
-http://200.55.244.75:8000/play/a0bc/index.m3u8
+http://novabox.club/live/conectStreax/K2tbMNebMW/177601.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" group-title="DEPORTES", FOX SPORTS 
 http://novabox.club/live/conectStreax/K2tbMNebMW/185773.m3u8 
@@ -81,10 +81,10 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://new-international-23-secure2.akamaized.net/index.m3u8 
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9b0mC0D/cnn.png" group-title="ARGENTINA", CNN ESPAÑOL 
-http://weib-tv.com/carlos4331/RpUXQfS/79088.ts 
+http://200.55.244.75:8000/play/a054/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" group-title="España", ANTENA 3 
-https://dsr.ride.com.ar/tvmia/sn33/playlist.m3u8 
+http://185.189.225.150:85/Antena3HD/index.m3u8
  
 #EXTINF:-1 tvg-id="622f42b831233300078658cc" tvg-chno="51" tvg-logo="https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png" group-title="Pluto TV", Ciudadanos por el mundo 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/622f42b831233300078658cc/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner= 
