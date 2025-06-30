@@ -1,6 +1,6 @@
 #EXTM3U list - name="TV Casa M3U" 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="ARGENTINA", 26
-http://200.55.244.75:8000/play/a01r/index.m3u8
+http://181.78.27.128:8000/play/a01u/index.m3u8
  
 #EXTINF:-1 tvg-id="IPNoticias.ar" tvg-logo="https://i.imgur.com/dbu9nx4.png" group-title="ARGENTINA", IP Noticias
 http://200.55.244.75:8000/play/a0eb/index.m3u8 
@@ -9,10 +9,10 @@ http://200.55.244.75:8000/play/a0eb/index.m3u8
 http://181.78.27.128:8000/play/a04k/index.m3u8 
  
 #EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" group-title="ARGENTINA", C5N
-http://200.55.244.75:8000/play/a01p/index.m3u8 
+http://181.78.27.128:8000/play/a01z/index.m3u8
  
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="ARGENTINA", A24
-http://200.55.244.75:8000/play/a01o/index.m3u8
+https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8|user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
  
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="ARGENTINA", TN
 http://200.55.244.75:8000/play/a058/index.m3u8 
@@ -48,7 +48,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u
 http://38.211.242.128:8001/play/a094/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/40.png" group-title="DEPORTES", TyC
-http://200.55.244.75:8000/play/a02s/index.m3u8 
+http://181.78.27.128:8000/play/a04n/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D4XMJV0/espnar.png" group-title="DEPORTES", ESPN
 http://200.55.244.75:8000/play/a05a/index.m3u8
