@@ -1,4 +1,4 @@
-#EXTM3U list - name="TV Casa M3U" 
+#EXTM3U list - name="TV Casa M3U"
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="ARGENTINA", 26
 http://181.78.27.128:8000/play/a01u/index.m3u8
  
