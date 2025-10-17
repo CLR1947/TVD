@@ -9,16 +9,16 @@ http://200.55.244.75:8000/play/a0eb/index.m3u8
 http://181.209.95.29:8000/play/a01q/index.m3u8
  
 #EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" group-title="ARGENTINA", C5N
-http://200.55.244.75:8000/play/a01p/index.m3u8
+http://181.209.95.29:8000/play/a01p/index.m3u8
  
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="ARGENTINA", A24
 http://200.55.244.75:8000/play/a01o/index.m3u8
  
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="ARGENTINA", TN
-http://200.55.244.75:8000/play/a058/index.m3u8
+http://181.209.95.29:8000/play/a0a6/index.m3u8
  
 #EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" tvg-id="LaNacionPlus.ar" group-title="ARGENTINA", LN+
-http://200.55.244.75:8000/play/a01s/index.m3u8
+http://181.209.95.29:8000/play/a01s/index.m3u8
  
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
@@ -51,25 +51,25 @@ http://181.209.95.29:8000/play/a06w/index.m3u8
 http://181.209.95.29:8000/play/a02s/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D4XMJV0/espnar.png" group-title="DEPORTES", ESPN
-http://novabox.club/live/conectStreax/K2tbMNebMW/209836.m3u8
+http://181.209.95.29:8000/play/a0ab/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G3X7twQ/espn2ar.png" group-title="DEPORTES", ESPN 2
-http://novabox.club/live/conectStreax/K2tbMNebMW/177589.m3u8 
+http://181.209.95.29:8000/play/a0ac/index.m3u8 
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jBMLyH/Espnpr.png" group-title="DEPORTES", ESPN PREMIUM
-http://novabox.club/live/conectStreax/K2tbMNebMW/191290.m3u8 
+http://181.209.95.29:8000/play/a078/index.m3u8 
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w4n3ZSB/tntsportsar.png" group-title="DEPORTES", TNT SPORTS
-http://200.55.244.75:8000/play/a0bc/index.m3u8
+http://181.209.95.29:8000/play/a0bk/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" group-title="DEPORTES", FOX SPORTS
-http://novabox.club/live/conectStreax/K2tbMNebMW/185773.m3u8 
+http://181.209.95.29:8000/play/a07j/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3ryQDk2/foxsports2ar.png" group-title="DEPORTES", FOX SPORTS 2
-http://novabox.club/live/conectStreax/K2tbMNebMW/185774.m3u8 
+http://181.209.95.29:8000/play/a0aa/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/31J8G4X/TVE.png" group-title="España", TVE
-http://38.211.242.128:8001/play/a0cc/index.m3u8
+http://181.209.95.29:8000/play/a072/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xXSDgkg/GALICIA.png" group-title="España", TV GALICIA
 https://crtvg-america.flumotion.cloud/playlist.m3u8 
@@ -81,7 +81,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://new-international-23-secure2.akamaized.net/index.m3u8 
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9b0mC0D/cnn.png" group-title="ARGENTINA", CNN ESPAÑOL
-http://200.55.244.75:8000/play/a054/index.m3u8
+http://181.209.95.29:8000/play/a0ax/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" group-title="España", ANTENA 3
 http://38.211.242.128:8001/play/a0eg/index.m3u8
