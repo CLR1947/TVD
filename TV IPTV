@@ -1,219 +1,271 @@
 #EXTM3U list - name="TV Casa M3U"
+https://cdn.trimi.com.ar/live/sm-live/NET_TV_BACKUP/sa_live_dash/NET_TV_BACKUP.mpd
+f519a4181806429bb2a998d77a937f32:6dbf5c8f0c50938cebc35fdf095833e1
 
+https://cdn.trimi.com.ar/live/sm-live/AMERICA_BACKUP/sa_live_dash/AMERICA_BACKUP.mpd
+737a88876b64489ab46cf69f8c5dfe5a:bf0ae0a5210cb0604e465690c201eec4
 
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="America TV" tvg-name="America TV" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",America TV
-https://broker.cdn.rcs.net.ar/mnp/americahls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Telefe
-https://broker.cdn.rcs.net.ar/mnp/mdr800000004i1ehev75u46zjoxlbnsy_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="TV Publica" tvg-name="TV Publica" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",TV Publica
-https://broker.cdn.rcs.net.ar/mnp/79sgpei8yp2kn0ledlptzl8nz5tjc3lz_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",El Trece
-https://broker.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",El Nueve
-https://broker.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="TN" tvg-name="TN" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",TN
-https://broker.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="A24" tvg-name="A24" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",A24
-https://broker.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="C5N" tvg-name="C5N" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",C5N
-https://broker.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Cronica TV" tvg-name="Cronica TV" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Cronica TV
-https://broker.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Canal 26" tvg-name="Canal 26" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Canal 26
-https://broker.cdn.rcs.net.ar/mnp/canal26_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="IP Noticias" tvg-name="IP Noticias" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",IP Noticias
-https://broker.cdn.rcs.net.ar/mnp/ip_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="LN +" tvg-name="LN +" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",LN +
-https://broker.cdn.rcs.net.ar/mnp/lnmas_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="CN 23" tvg-name="CN 23" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",CN 23
-https://broker.cdn.rcs.net.ar/mnp/cn23_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Encuentro" tvg-name="Encuentro" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Encuentro
-https://broker.cdn.rcs.net.ar/mnp/encuentro_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Tec TV" tvg-name="Tec TV" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Tec TV
-https://broker.cdn.rcs.net.ar/mnp/tecnopolis_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Construir" tvg-name="Construir" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Construir
-https://broker.cdn.rcs.net.ar/mnp/construiriptv_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="DeporTv" tvg-name="DeporTv" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",DeporTv
-https://broker.cdn.rcs.net.ar/mnp/ekkiry71mqajaf000000226lkrbcwjpr_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="TyC Sports HD" tvg-name="TyC Sports HD" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",TyC Sports HD
-https://broker.cdn.rcs.net.ar/mnp/tzeohupdr68s7sld3fejjidm9e2hxjoe_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",ESPN
-https://broker.cdn.rcs.net.ar/mnp/yft2eRNwcYbjJwa0YvCvw8a6HoSQwc4g_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",ESPN 2
-https://broker.cdn.rcs.net.ar/mnp/sJDmPFpTWBNS2gZhzj8ydHU7tR9Y6uf4k_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",ESPN 3
-https://broker.cdn.rcs.net.ar/mnp/QVsZxnupYwKdAtb5Dk3zvFXBMGqcWgmfR_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",ESPN 4
-https://broker.cdn.rcs.net.ar/mnp/bPHSdXgELpUR4JkCe3Qu5mV6zn8qMwjTY_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="FOX Sports HD" tvg-name="FOX Sports HD" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",FOX Sports HD
-https://broker.cdn.rcs.net.ar/mnp/q4odrh3fgtbonghui87px00000051hpm_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="FOX Sports 2" tvg-name="FOX Sports 2" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",FOX Sports 2
-https://broker.cdn.rcs.net.ar/mnp/YTBPx3ZQCwrDXNudJAFzkhLmEen2j94pU_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="FOX Sports 3" tvg-name="FOX Sports 3" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",FOX Sports 3
-https://broker.cdn.rcs.net.ar/mnp/zrGB5jxs4VLbqCw8eQkEDWYHU7tvfhuZR_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="El Garage" tvg-name="El Garage" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",El Garage
-https://broker.cdn.rcs.net.ar/mnp/garage_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Golf Channel" tvg-name="Golf Channel" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Golf Channel
-https://broker.cdn.rcs.net.ar/mnp/golf_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Discovery Turbo
-https://broker.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="TyC Sports 2" tvg-name="TyC Sports 2" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",TyC Sports 2
-https://router.cdn.rcs.net.ar/mnp/ux5ibtjkcqww5qhv6xirxem6wnpi6xr1_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Paka Paka" tvg-name="Paka Paka" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Paka Paka
-https://broker.cdn.rcs.net.ar/mnp/pkpk_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Disney Channel
-https://broker.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Nick" tvg-name="Nick" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Nick
-https://broker.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Cartoon Network
-https://broker.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Discovery Kids
-https://broker.cdn.rcs.net.ar/mnp/disc_kids_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Cartoonito
-https://broker.cdn.rcs.net.ar/mnp/boomerang_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Tooncast
-https://broker.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Nick Jr.
-https://broker.cdn.rcs.net.ar/mnp/nickjr_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Disney Junior
-https://broker.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Baby Tv" tvg-name="Baby Tv" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Baby Tv
-https://broker.cdn.rcs.net.ar/mnp/babytv_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="CINE.AR" tvg-name="CINE.AR" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",CINE.AR
-https://broker.cdn.rcs.net.ar/mnp/cinear_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Space" tvg-name="Space" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Space
-https://broker.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Cinecanal
-https://broker.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",TNT
-https://broker.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",TNT Series
-https://broker.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="FX" tvg-name="FX" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",FX
-https://broker.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Star Channel" tvg-name="Star Channel" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Star Channel
-https://broker.cdn.rcs.net.ar/mnp/foxhd_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Sony" tvg-name="Sony" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Sony
-https://broker.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Warner" tvg-name="Warner" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Warner
-https://broker.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",AXN
-https://broker.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="USA Network" tvg-name="USA Network" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",USA Network
-https://broker.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="A&E" tvg-name="A&E" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",A&E
-https://broker.cdn.rcs.net.ar/mnp/j26j2rzpt800000288vtpyar1sx5a31e_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Europa Europa" tvg-name="Europa Europa" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Europa Europa
-https://broker.cdn.rcs.net.ar/mnp/europa_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="TNT Novelas" tvg-name="TNT Novelas" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",TNT Novelas
-https://broker.cdn.rcs.net.ar/mnp/tntnovelas_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="TCM" tvg-name="TCM" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",TCM
-https://broker.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",AMC
-https://broker.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Universal" tvg-name="Universal" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Universal
-https://broker.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Studio Universal
-https://broker.cdn.rcs.net.ar/mnp/st_universal_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Lifetime
-https://broker.cdn.rcs.net.ar/mnp/lifetime_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Adult Swim" tvg-name="Adult Swim" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Adult Swim
-https://broker.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Comedy Central
-https://broker.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Paramount" tvg-name="Paramount" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Paramount
-https://broker.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Cinemax
-https://broker.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",El Gourmet
-https://broker.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Discovery HGTV" tvg-name="Discovery HGTV" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Discovery HGTV
-https://broker.cdn.rcs.net.ar/mnp/dsc_hgtv_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Food Network
-https://broker.cdn.rcs.net.ar/mnp/disc_fn_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="E! Entertainment" tvg-name="E! Entertainment" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",E! Entertainment
-https://broker.cdn.rcs.net.ar/mnp/eent_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Home & Health" tvg-name="Home & Health" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Home & Health
-https://broker.cdn.rcs.net.ar/mnp/disc_hh_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Mas Chic" tvg-name="Mas Chic" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Mas Chic
-https://broker.cdn.rcs.net.ar/mnp/maschic_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Discovery TLC" tvg-name="Discovery TLC" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Discovery TLC
-https://broker.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Telemundo
-https://broker.cdn.rcs.net.ar/mnp/telemundo_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Rural" tvg-name="Rural" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Rural
-https://broker.cdn.rcs.net.ar/mnp/rural_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Telediario Digital TV" tvg-name="Telediario Digital TV" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Telediario Digital TV
-https://broker.cdn.rcs.net.ar/mnp/imperio_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Argentinisima Satelital" tvg-name="Argentinisima Satelital" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Argentinisima Satelital
-https://broker.cdn.rcs.net.ar/mnp/arg_sat_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="National Geografic" tvg-name="National Geografic" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",National Geografic
-https://broker.cdn.rcs.net.ar/mnp/natgeohd_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Discovery Channel
-https://broker.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Animal Planet
-https://broker.cdn.rcs.net.ar/mnp/disc_apar_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Discovery Theater
-https://broker.cdn.rcs.net.ar/mnp/disc_theater_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="History Channel" tvg-name="History Channel" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",History Channel
-https://broker.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Discovery I+D" tvg-name="Discovery I+D" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Discovery I+D
-https://broker.cdn.rcs.net.ar/mnp/disc_idar_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Film&Arts" tvg-name="Film&Arts" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Film&Arts
-https://broker.cdn.rcs.net.ar/mnp/filmsarts_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Discovery World
-https://broker.cdn.rcs.net.ar/mnp/disc_world_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Discovery Science
-https://broker.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",MTV
-https://broker.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="HTV" tvg-name="HTV" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",HTV
-https://broker.cdn.rcs.net.ar/mnp/htv_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="CM" tvg-name="CM" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",CM
-https://broker.cdn.rcs.net.ar/mnp/cmmusica_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="CNN en Español" tvg-name="CNN en Español" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",CNN en Español
-https://broker.cdn.rcs.net.ar/mnp/cnne_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Telesur" tvg-name="Telesur" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Telesur
-https://broker.cdn.rcs.net.ar/mnp/telesurtda_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="CNN Internacional" tvg-name="CNN Internacional" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",CNN Internacional
-https://broker.cdn.rcs.net.ar/mnp/cnn_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="RT TV" tvg-name="RT TV" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",RT TV
-https://broker.cdn.rcs.net.ar/mnp/iptvrt_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="NHK" tvg-name="NHK" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",NHK
-https://broker.cdn.rcs.net.ar/mnp/nhk_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Canal Luz" tvg-name="Canal Luz" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Canal Luz
-https://broker.cdn.rcs.net.ar/inet/mnp/chLuz/index.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Santa Maria/Maria Vision" tvg-name="Santa Maria/Maria Vision" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Santa Maria/Maria Vision
-https://broker.cdn.rcs.net.ar/inet/mnp/mariaVision/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Aliento Vision" tvg-name="Aliento Vision" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Aliento Vision
-https://broker.cdn.rcs.net.ar/inet/mnp/alientoVision/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="EWTN" tvg-name="EWTN" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",EWTN
-https://broker.cdn.rcs.net.ar/inet/ewtn/mono.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="El Once Parana" tvg-name="El Once Parana" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",El Once Parana
-https://broker.cdn.rcs.net.ar/hub/eloncetv/eloncetv.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Entre Rios Tv" tvg-name="Entre Rios Tv" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Entre Rios Tv
-https://broker.cdn.rcs.net.ar/faster/ertv_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Remanso TV" tvg-name="Remanso TV" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Remanso TV
-https://broker.cdn.rcs.net.ar/faster/remansotv_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="CN 24/7" tvg-name="CN 24/7" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",CN 24/7
-https://broker.cdn.rcs.net.ar/hub/c247tv/c247tv.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="RTN" tvg-name="RTN" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",RTN
-https://broker.cdn.rcs.net.ar/hub/rtn/rtn.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="BVC Online" tvg-name="BVC Online" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",BVC Online
-https://broker.cdn.rcs.net.ar/inet/bvc/bvconline.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Canal 12 Trenque Lauquen" tvg-name="Canal 12 Trenque Lauquen" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Canal 12 Trenque Lauquen
-https://broker.cdn.rcs.net.ar/cetl/hls/Canal12/index.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Aire de Santa Fe" tvg-name="Aire de Santa Fe" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Aire de Santa Fe
-https://broker.cdn.rcs.net.ar/hub/airestafe/airestafe.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Canal 19 La Pampa" tvg-name="Canal 19 La Pampa" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Canal 19 La Pampa
-https://broker.cdn.rcs.net.ar/inet/c19lp/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="T5 Satelital" tvg-name="T5 Satelital" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",T5 Satelital
-https://broker.cdn.rcs.net.ar/faster/t5_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Canal de la Ciudad" tvg-name="Canal de la Ciudad" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Canal de la Ciudad
-https://broker.cdn.rcs.net.ar/hub/canaldelaciudad/canaldelaciudad.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Radio Maria" tvg-name="Radio Maria" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Radio Maria
-https://broker.cdn.rcs.net.ar/hub/radiomariaargentina/radiomariaargentina.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Ciudad TV" tvg-name="Ciudad TV" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Ciudad TV
-https://broker.cdn.rcs.net.ar/hub/ciudadtv/ciudadtv.m3u8
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Sicardi TV" tvg-name="Sicardi TV" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Sicardi TV
-https://broker.cdn.rcs.net.ar/inet/sicardi/110105.m3u8
+https://cdn.trimi.com.ar/live/sm-live/TELEFE_BACKUP_9-6/sa_live_dash_ll/TELEFE_BACKUP_9-6.mpd
+93f2e70d452d4fc2ae0c477ca66b29be:b204d146d7f369bc3c5a87acfcfb6532
+
+https://cdn.trimi.com.ar/live/sm-live/TV_PUBLICA_BACKUP/sa_live_dash_ll/TV_PUBLICA_BACKUP.mpd
+9825d6a017d5406e8bc50bb2bc7857c9:26196b3593c359c226bb7637cb188ce4
+
+https://cdn.trimi.com.ar/live/sm-live/C4N4L_TR3C3/sa_live_dash/C4N4L_TR3C3.mpd
+6e88815a08b44c73a191161d3c15d890:9193a6d29f77bd651b9277f8f70b61b5
+
+https://cdn.trimi.com.ar/live/sm-live/C4N4L_NU3V3/sa_live_dash/C4N4L_NU3V3.mpd
+9f1527881baf4166865452f046d8f445:d192df40da8a2c752a8a921f827c325f
+
+https://cdn.trimi.com.ar/live/sm-live/ENCUENTRO/sa_live_dash/ENCUENTRO.mpd
+e972f2d0f70645a38bdea2d3a80d39cf:3434914bd095577b869429d845193a46
+
+https://cdn.trimi.com.ar/live/sm-live/TODO_N0T1C1A5/sa_live_dash/TODO_N0T1C1A5.mpd
+f158c92fdc5e431e84e6b2480fd858dc:87e0bb7553d9d69273deb2893b424c1a
+
+https://cdn.trimi.com.ar/live/sm-live/A_24_BACKUP/sa_live_dash/A_24_BACKUP.mpd
+aaa33fd380564479b57ab8296570aa3a:a89018f86f4402ad626bec3803bf3194
+
+https://cdn.trimi.com.ar/live/sm-live/C5N_BACKUP/sa_live_dash/C5N_BACKUP.mpd
+87427c8d92cb445c9b63c840d1fd8da9:bd9111cd5b7b4e712197e00c9ebbd862
+
+https://cdn.trimi.com.ar/live/sm-live/CR0N1C4_TV/sa_live_dash/CR0N1C4_TV.mpd
+f37298e504974d279d241a77fd872620:866fcb859136415b83960cda9863d445
+
+https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_dash/PROVINCIAL.mpd
+
+https://cdn.trimi.com.ar/live/sm-live/26TV_BACKUP/sa_live_dash/26TV_BACKUP.mpd
+0b835e5cb05e431cb57a3dcc775e4d0f:21e9e0ab74fc12306a2624a1ee80eef2
+
+https://cdn.trimi.com.ar/live/sm-live/L4_NACION_M45/sa_live_dash/L4_NACION_M45.mpd
+9ca7e4a4a0314d15bad3b2066b4f1b30:bc77f956816ee72f9e02f8d43fee43c5
+
+https://cdn.trimi.com.ar/live/sm-live/BR4V0_TV_BACKUP/sa_live_dash/BR4V0_TV_BACKUP.mpd
+4f65bad34feb42a28276e3ec047480cc:e3b4b74c12ffb5802a0acd04c0f4f84d
+
+https://cdn.trimi.com.ar/live/sm-live/CANAL_E/sa_live_dash/CANAL_E.mpd
+dab2a8490e0c4b4882bb75be05fb53e7:252c23f9511f5b68eeb2a05bdc38e805
+
+https://cdn.trimi.com.ar/live/sm-live/TYC_SPORTS_BACKUP_9-6/sa_live_dash_ll/TYC_SPORTS_BACKUP_9-6.mpd
+58b7b99c78d841bd841ffcf001a2c397:eccfd978965e89e1afe14d7c3b38f7d8
+
+https://cdn.trimi.com.ar/live/sm-live/ESPN_BKP_6/sa_live_dash_ll/ESPN_BKP_6.mpd
+940f756d43b4420892be348372467319:6746cda92bff56869cceb79014c35147
+
+https://cdn.trimi.com.ar/live/sm-live/ESPN_2_BkP/sa_live_dash_ll/ESPN_2_BkP.mpd
+ea7025085a58407e8ff8a0bb30124d5d:43e27216f78044dfb0c134faa28029d4
+
+https://cdn.trimi.com.ar/live/sm-live/ESPN_3/sa_live_dash/ESPN_3.mpd
+a2370ca5b9094aabaadc5e0f4a9679ca:a3b13386e6929346c23ca8a48f4cfa9d
+
+https://cdn.trimi.com.ar/live/sm-live/ESPN_4/sa_live_dash/ESPN_4.mpd
+5ad73320242a4ad2b6eb2426dd3c0a6d:78d8e57062ba715bce7a7f0253bc0c96
+
+https://cdn.trimi.com.ar/live/sm-live/FOX_SPORTS_BKP2/sa_live_dash_ll/FOX_SPORTS_BKP2.mpd
+fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
+
+https://cdn.trimi.com.ar/live/sm-live/FOX_SPORTS_2/sa_live_dash/FOX_SPORTS_2.mpd
+fb87b63bd6ea4005b66b41cdaca7ba9b:bb54f7132fb47d804723ec429ef65c81
+
+https://cdn.trimi.com.ar/live/sm-live/FOX_SPORTS_3_BACKUP/sa_live_dash/FOX_SPORTS_3_BACKUP.mpd
+d2c3554c2f9540849031439326cce8e9:f97391f9e36f6f33eed844ebaab72a8f
+
+https://cdn.trimi.com.ar/live/sm-live/ESPN_PREM_21-05/sa_live_dash_ll/ESPN_PREM_21-05.mpd
+3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
+
+https://cdn.trimi.com.ar/live/sm-live/TNT_SPORTS_BACKUP_21-5/sa_live_dash_ll/TNT_SPORTS_BACKUP_21-5.mpd
+4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
+
+https://cdn.trimi.com.ar/live/sm-live/GOLF_CHANNEL/sa_live_dash/GOLF_CHANNEL.mpd
+472d5fe5f6ae4063bc9cbd2377076589:30210605c23e8b1117c3b5c7701892a7
+
+https://cdn.trimi.com.ar/live/sm-live/TURBO/sa_live_dash/TURBO.mpd
+074581b5931d4566b4aff60eac2b63a8:ec763028d2d7b7f6eb81931db1ce7724
+
+https://cdn.trimi.com.ar/live/sm-live/GARAGE_TV/sa_live_dash/GARAGE_TV.mpd
+7abc32eda1d54bf0bf3b01240a4270ed:fd91025449379074ac5d8824c140e7d7
+
+https://cdn.trimi.com.ar/live/sm-live/DEPORTV/sa_live_dash/DEPORTV.mpd
+699fee61524a45e58b470ca18a6c251f:f45c612f4f5b26151e62fe4ec34bc743
+
+https://cdn.trimi.com.ar/live/sm-live/AXN/sa_live_dash/AXN.mpd
+451633bd019d424aa446e20b565f2f18:78b21bcf86c8513527f62d3587a84be9
+
+https://cdn.trimi.com.ar/live/sm-live/CINECANAL/sa_live_dash/CINECANAL.mpd
+a39970fe96ff4b3a8292e7c7c086e6f7:8af75757b1dbf558dba71ed1eaa0c9f0
+
+https://cdn.trimi.com.ar/live/sm-live/EUROCHANNEL/sa_live_dash/EUROCHANNEL.mpd
+dbea855152f3452d8e4665613eb0bf82:f87321802f4a903dcb8722a04c341825
+
+https://cdn.trimi.com.ar/live/sm-live/EUROPA_EUROPA/sa_live_dash/EUROPA_EUROPA.mpd
+89ad48f00883461e87e8d2b226fdc1e9:23a27110103ebbaad69df89453f70ee1
+
+https://cdn.trimi.com.ar/live/sm-live/CINEMAX/sa_live_dash/CINEMAX.mpd
+ac9b49622e0f4cc68d77d374f18b0151:30d4af51cbf312d161178dd3e0057647
+
+https://cdn.trimi.com.ar/live/sm-live/STAR/sa_live_dash/STAR.mpd
+5e848170ca304178b8f88943edc2c42b:54e0b083eb9f9bed734df744d0c0e366
+
+https://cdn.trimi.com.ar/live/sm-live/PARAMOUNT/sa_live_dash/PARAMOUNT.mpd
+e4e6b00b29c84110829208225723d74f:6201e040d30dd4131baf791c74898c52
+
+https://cdn.trimi.com.ar/live/sm-live/ADULT_SWIM/sa_live_dash/ADULT_SWIM.mpd
+31a7b092ee464faf950f3a168725c23b:32bfdb74f702ed211075843104d62664
+
+https://cdn.trimi.com.ar/live/sm-live/SONY/sa_live_dash/SONY.mpd
+786868f2a5a843dc99030ba829382cdf:1dd03c0b202f12a51e351cf03655b550
+
+https://cdn.trimi.com.ar/live/sm-live/SPACE/sa_live_dash/SPACE.mpd
+6a9c0a7dec5e49bf9b018ff4412be393:cbcdfffb4322ee726d4d1729a8dacf5c
+
+https://cdn.trimi.com.ar/live/sm-live/SONY_MOVIES/sa_live_dash/SONY_MOVIES.mpd
+1caed3009f584a919c39623408697540:b978808cc8be700a40de8e7704a2cf8f
+
+https://cdn.trimi.com.ar/live/sm-live/TNT/sa_live_dash/TNT.mpd
+7df5d516c1644978aafd9a6f00846adc:fe5591c37341ef9870d5bf272880b896
+
+https://cdn.trimi.com.ar/live/sm-live/TNT_SERIES/sa_live_dash/TNT_SERIES.mpd
+653b324749e746d2acb999b58e585027:6eb5e42a2f321b7507dc4e6aed472630
+
+https://cdn.trimi.com.ar/live/sm-live/WARNER/sa_live_dash/WARNER.mpd
+4c5cc73c9e6b4b8faf8e560093b011d8:ced4c396cf75c55b1cf68fb831bd1351
+
+https://cdn.trimi.com.ar/live/sm-live/AMC/sa_live_dash/AMC.mpd
+35e7251476a9482a957e7abfed065f86:bf9a301292298a0fb6e81bf55f4817e8
+
+https://cdn.trimi.com.ar/live/sm-live/TCM/sa_live_dash/TCM.mpd
+5f973d766bdc4d4587652391f18dec64:db4e5f0587184f09a22f7b286bf54d4a
+
+https://cdn.trimi.com.ar/live/sm-live/FX/sa_live_dash/FX.mpd
+ed81783173a34b9a8f0ea67cf772db2a:bf1ff16f13c67e0d2a4a1bedada582d1
+
+https://cdn.trimi.com.ar/live/sm-live/LIFETIME/sa_live_dash/LIFETIME.mpd
+7b6d3d8bdef64b08b35eb98cef5b7512:6a72b57d7d80f19194f55e544e7a2a07
+
+https://cdn.trimi.com.ar/live/sm-live/CINE_AR/sa_live_dash/CINE_AR.mpd
+6ce6f8eb80d04692a1e77fa788dc6136:269ca950fc51d37ed86c31f72a20e455
+
+https://cdn.trimi.com.ar/live/sm-live/FILM_ARTS/sa_live_dash/FILM_ARTS.mpd
+89fc98ea91754320aaf27a591deb4d1c:557175d6cb24ec6ff6f05f9c66f0a505
+
+https://cdn.trimi.com.ar/live/sm-live/AE/sa_live_dash/AE.mpd
+c1b8d5859d4a4f33b80b24184cc1da91:020cd87890a23b81535bd72bc275648f
+
+https://cdn.trimi.com.ar/live/sm-live/COMEDY_CENTRAL/sa_live_dash/COMEDY_CENTRAL.mpd
+2917ac690c3546b6988dabbe7c5a7bbf:914b05782000ea5f2571a7e1a106c20a
+
+https://cdn.trimi.com.ar/live/sm-live/TNT_NOVELAS/sa_live_dash/TNT_NOVELAS.mpd
+e24ece68ef22440f98b5a589589e86f7:7d3773905780c9711cf5a6cd2f6d903c
+
+https://cdn.trimi.com.ar/live/sm-live/PAKA_PAKA/sa_live_dash/PAKA_PAKA.mpd
+a93114df10b242f7bc447d5351ecf84a:4d8fec73c75ac428aa214471196f332d
+
+https://cdn.trimi.com.ar/live/sm-live/CARTOONITO/sa_live_dash/CARTOONITO.mpd
+08c256c2691645c7862b0859676f3613:d36fdcc51ca4c3e69a76a34c1bcbbca1
+
+https://cdn.trimi.com.ar/live/sm-live/CARTOON/sa_live_dash/CARTOON.mpd
+eba88d2678284eba880b1c0465eb63dd:a2af7e1701e1a9ab1ee380719e56ad12
+
+https://cdn.trimi.com.ar/live/sm-live/DISCOVERY_KIDS/sa_live_dash/DISCOVERY_KIDS.mpd
+cfbc1a31ab534cbb84ecd4bf643bb892:e88cebf2c562fbc15d993f30912678eb
+
+https://cdn.trimi.com.ar/live/sm-live/DISNEY/sa_live_dash/DISNEY.mpd
+deb672e305c9437eacdbc9d089d22d55:12472c24acd1d9f45af3e506d8de76da
+
+https://cdn.trimi.com.ar/live/sm-live/BABY_TV/sa_live_dash/BABY_TV.mpd
+a6636c4891a34c8490d33f71dc273b27:831e07d055984d3a1810ed8ed28536bc
+
+https://cdn.trimi.com.ar/live/sm-live/DISNEY_JR/sa_live_dash/DISNEY_JR.mpd
+3ab0e382392041d0ba4e0c8614d86f54:b2eeb65ed3963f7b36656ded24b3fe0d
+
+https://cdn.trimi.com.ar/live/sm-live/TOONCAST/sa_live_dash/TOONCAST.mpd
+c789a53501c64b67823f376417c2ccf8:2fcda015ff039142fd80ec508d47a9ff
+
+https://cdn.trimi.com.ar/live/sm-live/NICK/sa_live_dash/NICK.mpd
+1bc619a1a4994207b178c31d251b1852:208f071a5aa2f68d2ac55f57a61d2413
+
+https://cdn.trimi.com.ar/live/sm-live/NICK_JR/sa_live_dash/NICK_JR.mpd
+d61ca4efb76b43b89cc4180958edbfce:95315da03f990fa4cf950c0141a4c4c1
+
+https://cdn.trimi.com.ar/live/sm-live/TEEN_NICK/sa_live_dash/TEEN_NICK.mpd
+664cc28a59864059b80feda579e9f9b7:c4314017c1617f7383327b7b37885ed8
+
+https://cdn.trimi.com.ar/live/sm-live/ID/sa_live_dash/ID.mpd
+008463d7a8de44f698981595169c10fd:e0f50ce8af11ee97400bf11637d94172
+
+https://cdn.trimi.com.ar/live/sm-live/FOOD_NETWORK/sa_live_dash/FOOD_NETWORK.mpd
+017c92fcc7f74deb96622a3e42c2843d:2fed7e626e30a5ffbe4abfcb6770c24d
+
+https://cdn.trimi.com.ar/live/sm-live/EL_GOURMET/sa_live_dash/EL_GOURMET.mpd
+22733751e0d3459cb14f95a784868197:56532e9fa1d87daff000e7fd163b3df8
+
+https://cdn.trimi.com.ar/live/sm-live/HGTV/sa_live_dash/HGTV.mpd
+d0ca5fe117a843dc950f994ee3f08a54:837c75043053fb762e7a33106289b019
+
+https://cdn.trimi.com.ar/live/sm-live/ANIMAL_PLANET/sa_live_dash/ANIMAL_PLANET.mpd
+d0ec7548e754414b865772290b8e4188:cca73b168ed0acc946e89f00bcd51080
+
+https://cdn.trimi.com.ar/live/sm-live/DISCOVERY_CHANNEL_BACKUP/sa_live_dash/DISCOVERY_CHANNEL_BACKUP.mpd
+7c4356dc6afe440c899dab27c676147d:ac2e8376e3d62ef2380bfb67135bfc86
+
+https://cdn.trimi.com.ar/live/sm-live/THEATER/sa_live_dash/THEATER.mpd
+a073fa0fdbd443189cde9fa46319b734:1bebd1178d272d5d65a8a06a2a4e3f77
+
+https://cdn.trimi.com.ar/live/sm-live/WORLD/sa_live_dash/WORLD.mpd
+06b741b50ea04427a5839939adbdd31d:42ba3c440f951884019c168b2ade292d
+
+https://cdn.trimi.com.ar/live/sm-live/HOME_HEALTH/sa_live_dash/HOME_HEALTH.mpd
+ba6b8d98ee954ba2a568c90b814be9ba:43632a68f81a779d04ae6035272f218f
+
+https://cdn.trimi.com.ar/live/sm-live/HISTORY/sa_live_dash/HISTORY.mpd
+4a0173519ec54c7b9ec8e0891b13c03c:36c517b9b4f2b5fdc6072baf33a25e94
+
+https://cdn.trimi.com.ar/live/sm-live/NAT_GEO/sa_live_dash/NAT_GEO.mpd
+6cc922325d964dc6af52bc00c93a5fc8:19d07388f5284137a7b6eea3bdcf9df3
+
+https://cdn.trimi.com.ar/live/sm-live/TLC/sa_live_dash/TLC.mpd
+78c06152e3384356aa52768a06c961e0:e66c51669f1f37fdca7e7917cd7401d1
+
+https://cdn.trimi.com.ar/live/sm-live/CARAS_TV/sa_live_dash/CARAS_TV.mpd
+3225af993d7b4994b342c04a1db89c17:db73ec5dce14fe1c810aad0ad0165e68
+
+https://cdn.trimi.com.ar/live/sm-live/SCIENCE/sa_live_dash/SCIENCE.mpd
+61453cf0bc184c0ea3c9a8290460df8c:374dc36f498a9bd6608dd716595c83a2
+
+https://cdn.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_dash/SANTA_MARIA.mpd
+
+https://cdn.trimi.com.ar/live/sm-live/H2/sa_live_dash/H2.mpd
+c3d25d070677428db8a4e2e011de35b9:b2015ad3427f8b660621f840aca4af65
+
+https://cdn.trimi.com.ar/live/sm-live/MTV_00s/sa_live_dash/MTV_00s.mpd
+8e3af97131a54c4b916e2fb74b09ae53:e9181b84a5d0122ad24fba7596f3fc20
+
+https://cdn.trimi.com.ar/live/sm-live/MTV/sa_live_dash/MTV.mpd
+9618a1c31aae4d9989e8a6e32103382e:f58d97001d226b9506888c9d2a4f8872
+
+https://cdn.trimi.com.ar/live/sm-live/HTV/sa_live_dash/HTV.mpd
+332fe5d3376f495999ab9fcc3a09d6e6:efbf5c5c94f2777d9385aa0bcb285783
+
+https://cdn.trimi.com.ar/live/sm-live/CM/sa_live_dash/CM.mpd
+f3e1536281014094b4afc959272cebdb:bfe37eac089097ba8361b5e85f52320c
+
+https://cdn.trimi.com.ar/live/sm-live/TELESUR/sa_live_dash/TELESUR.mpd
+f67b9efeace743cb8f70b72abbc9c35a:47cdfdf0ecc45c07b6d4c711cc5178fa
+
+https://cdn.trimi.com.ar/live/sm-live/ESTRELLAS/sa_live_dash/ESTRELLAS.mpd
+92c3a3d9f95b475e9dde2e96fc0fb488:12c3659a8ae6018dba67cb5eda213c7d
+
+https://cdn.trimi.com.ar/live/sm-live/FRANCE_24/sa_live_dash/FRANCE_24.mpd
+17a6aae47ae64f9a80769d0dd0b51039:172007c9a3a2597f7943caeb5cbe8a94
+
+https://cdn.trimi.com.ar/live/sm-live/RAI/sa_live_dash/RAI.mpd
+119bac9de6a34fb7844466e2c0625984:ad6d7b3d2d752a1a78ee4cf483d29d38
+
+https://cdn.trimi.com.ar/live/sm-live/TVE/sa_live_dash/TVE.mpd
+adb19b9b6e2c4a378909eb32c0921f27:9e53d1a886282fe7bfe4218f0ac3ba24
+
+https://cdn.trimi.com.ar/live/sm-live/CNN_ESPANOL/sa_live_dash/CNN_ESPANOL.mpd
+4430f4f7db7842728ebda66733b417d4:4aa36f077675e9db4dea11a9100d424d
+
+https://cdn.trimi.com.ar/live/sm-live/DW/sa_live_dash/DW.mpd
+4769af734e004117bd6b64ee8286921d:44f28e6473d5f60f872bec5192301b43
