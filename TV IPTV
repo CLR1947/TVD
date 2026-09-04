@@ -1,1023 +1,116 @@
-#EXTM3U list - name="TV Casa M3U"
-#EXTINF:-1 tvg-name="ARG - A24 (i)(720)" group-title="ARGENTINA",ARG - A24 (i)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157616.m3u8
-#EXTINF:-1 tvg-name="ARG - A24 (Z)(720)" group-title="ARGENTINA",ARG - A24 (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157613.m3u8
-#EXTINF:-1 tvg-name="ARG - America TV (L)(720)" group-title="ARGENTINA",ARG - America TV (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157612.m3u8
-#EXTINF:-1 tvg-name="ARG - America TV (L)(720)" group-title="ARGENTINA",ARG - America TV (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157624.m3u8
-#EXTINF:-1 tvg-name="ARG - America TV (M)(720)" group-title="ARGENTINA",ARG - America TV (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157623.m3u8
-#EXTINF:-1 tvg-name="ARG - America TV (TV)(720)" group-title="ARGENTINA",ARG - America TV (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157622.m3u8
-#EXTINF:-1 tvg-name="ARG - Argentinisima (i)(720)" group-title="ARGENTINA",ARG - Argentinisima (i)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157608.m3u8
-#EXTINF:-1 tvg-name="ARG - C5N (i)(720)" group-title="ARGENTINA",ARG - C5N (i)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157607.m3u8
-#EXTINF:-1 tvg-name="ARG - C5N (M)(720)" group-title="ARGENTINA",ARG - C5N (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157566.m3u8
-#EXTINF:-1 tvg-name="ARG - Canal 13 (M)(720)" group-title="ARGENTINA",ARG - Canal 13 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157567.m3u8
-#EXTINF:-1 tvg-name="ARG - Canal 26 (L)(720)" group-title="ARGENTINA",ARG - Canal 26 (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157594.m3u8
-#EXTINF:-1 tvg-name="ARG - Canal 26 (M)(720)" group-title="ARGENTINA",ARG - Canal 26 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157568.m3u8
-#EXTINF:-1 tvg-name="ARG - Canal 9 (M)(720)" group-title="ARGENTINA",ARG - Canal 9 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157569.m3u8
-#EXTINF:-1 tvg-name="ARG - Canal de la Ciudad (M)(720)" group-title="ARGENTINA",ARG - Canal de la Ciudad (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157570.m3u8
-#EXTINF:-1 tvg-name="ARG - Cinear (i)(720)" group-title="ARGENTINA",ARG - Cinear (i)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157601.m3u8
-#EXTINF:-1 tvg-name="ARG - Ciudad Magazine (M)(720)" group-title="ARGENTINA",ARG - Ciudad Magazine (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157565.m3u8
-#EXTINF:-1 tvg-name="ARG - Cronica (i)(720)" group-title="ARGENTINA",ARG - Cronica (i)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157598.m3u8
-#EXTINF:-1 tvg-name="ARG - Crónica TV (M)(720)" group-title="ARGENTINA",ARG - Crónica TV (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157572.m3u8
-#EXTINF:-1 tvg-name="ARG - DEPORTV (i)(720)" group-title="ARGENTINA",ARG - DEPORTV (i)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157596.m3u8
-#EXTINF:-1 tvg-name="ARG - Deportv (L)(720)" group-title="ARGENTINA",ARG - Deportv (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157620.m3u8
-#EXTINF:-1 tvg-name="ARG - DeporTV (M)(720)" group-title="ARGENTINA",ARG - DeporTV (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157573.m3u8
-#EXTINF:-1 tvg-name="ARG - El Nueve (i)(720)" group-title="ARGENTINA",ARG - El Nueve (i)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157595.m3u8
-#EXTINF:-1 tvg-name="ARG - El Nueve (L)(720)" group-title="ARGENTINA",ARG - El Nueve (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157621.m3u8
-#EXTINF:-1 tvg-name="ARG - El Trece (i)(720)" group-title="ARGENTINA",ARG - El Trece (i)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157615.m3u8
-#EXTINF:-1 tvg-name="ARG - El trece (L)(720)" group-title="ARGENTINA",ARG - El trece (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157591.m3u8
-#EXTINF:-1 tvg-name="ARG - ESPN (M)(720)" group-title="ARGENTINA",ARG - ESPN (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157558.m3u8
-#EXTINF:-1 tvg-name="ARG - ESPN 2 (M)(720)" group-title="ARGENTINA",ARG - ESPN 2 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157559.m3u8
-#EXTINF:-1 tvg-name="ARG - ESPN 3 (M)(720)" group-title="ARGENTINA",ARG - ESPN 3 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157560.m3u8
-#EXTINF:-1 tvg-name="ARG - ESPN 4 (M)(720)" group-title="ARGENTINA",ARG - ESPN 4 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157561.m3u8
-#EXTINF:-1 tvg-name="ARG - ESPN Premium (M)(720)" group-title="ARGENTINA",ARG - ESPN Premium (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157562.m3u8
-#EXTINF:-1 tvg-name="ARG - LN + (L)(720)" group-title="ARGENTINA",ARG - LN + (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157592.m3u8
-#EXTINF:-1 tvg-name="ARG - LN+ (i)(720)" group-title="ARGENTINA",ARG - LN+ (i)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157593.m3u8
-#EXTINF:-1 tvg-name="ARG - LN+ (M)(720)" group-title="ARGENTINA",ARG - LN+ (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157574.m3u8
-#EXTINF:-1 tvg-name="ARG - Metro (i)(720)" group-title="ARGENTINA",ARG - Metro (i)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157606.m3u8
-#EXTINF:-1 tvg-name="ARG - Multivision" group-title="ARGENTINA",ARG - Multivision
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157618.m3u8
-#EXTINF:-1 tvg-name="ARG - Paka Paka (M)(720)" group-title="ARGENTINA",ARG - Paka Paka (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157575.m3u8
-#EXTINF:-1 tvg-name="ARG - Telefe (i)(720)" group-title="ARGENTINA",ARG - Telefe (i)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157590.m3u8
-#EXTINF:-1 tvg-name="ARG - Telefe (L)(720)" group-title="ARGENTINA",ARG - Telefe (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157589.m3u8
-#EXTINF:-1 tvg-name="ARG - Telefe Noticias (i)(720)" group-title="ARGENTINA",ARG - Telefe Noticias (i)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157617.m3u8
-#EXTINF:-1 tvg-name="ARG - Telesur (i)(720)" group-title="ARGENTINA",ARG - Telesur (i)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157604.m3u8
-#EXTINF:-1 tvg-name="ARG - TN (M)(720)" group-title="ARGENTINA",ARG - TN (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157577.m3u8
-#EXTINF:-1 tvg-name="ARG - TN Noticias (i)(720)" group-title="ARGENTINA",ARG - TN Noticias (i)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157610.m3u8
-#EXTINF:-1 tvg-name="ARG - TNT Sports (L)(720)" group-title="ARGENTINA",ARG - TNT Sports (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157585.m3u8
-#EXTINF:-1 tvg-name="ARG - TNT Sports (TV)(720)" group-title="ARGENTINA",ARG - TNT Sports (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157584.m3u8
-#EXTINF:-1 tvg-name="ARG - TV Publica (L)(720)" group-title="ARGENTINA",ARG - TV Publica (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157586.m3u8
-#EXTINF:-1 tvg-name="ARG - TV Pública (M)(720)" group-title="ARGENTINA",ARG - TV Pública (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157578.m3u8
-#EXTINF:-1 tvg-name="ARG - TV Publica (Z)(720)" group-title="ARGENTINA",ARG - TV Publica (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157587.m3u8
-#EXTINF:-1 tvg-name="ARG - TV5 Monde (M)(720)" group-title="ARGENTINA",ARG - TV5 Monde (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157579.m3u8
-#EXTINF:-1 tvg-name="ARG - TyC Sports (L)(720)" group-title="ARGENTINA",ARG - TyC Sports (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157583.m3u8
-#EXTINF:-1 tvg-name="ARG - TyC Sports (M)(720)" group-title="ARGENTINA",ARG - TyC Sports (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157580.m3u8
-#EXTINF:-1 tvg-name="ARG - TyC Sports (TV)(720)" group-title="ARGENTINA",ARG - TyC Sports (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157614.m3u8
-#EXTINF:-1 tvg-name="ARG - Volver (M)(720)" group-title="ARGENTINA",ARG - Volver (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/157581.m3u8
-#EXTINF:-1 tvg-name="CINE - A&E (L)(1080)" group-title="CANALES-CINE Y SERIES",CINE - A&E (L)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9614.m3u8
-#EXTINF:-1 tvg-name="CINE - A&E (M)(1080)" group-title="CANALES-CINE Y SERIES",CINE - A&E (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9615.m3u8
-#EXTINF:-1 tvg-name="CINE - A&E (Z)(1080)" group-title="CANALES-CINE Y SERIES",CINE - A&E (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9616.m3u8
-#EXTINF:-1 tvg-name="CINE - A3 Cine INT (TV)(SD)" group-title="CANALES-CINE Y SERIES",CINE - A3 Cine INT (TV)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9617.m3u8
-#EXTINF:-1 tvg-name="CINE - AMC (TV)(720)" group-title="CANALES-CINE Y SERIES",CINE - AMC (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9620.m3u8
-#EXTINF:-1 tvg-name="CINE - AXN (M)(1080)" group-title="CANALES-CINE Y SERIES",CINE - AXN (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9623.m3u8
-#EXTINF:-1 tvg-name="CINE - AXN (TV)(720)" group-title="CANALES-CINE Y SERIES",CINE - AXN (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9624.m3u8
-#EXTINF:-1 tvg-name="CINE - AXN (Z)(1080)" group-title="CANALES-CINE Y SERIES",CINE - AXN (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9625.m3u8
-#EXTINF:-1 tvg-name="CINE - Cine Latino (L)(720)" group-title="CANALES-CINE Y SERIES",CINE - Cine Latino (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9626.m3u8
-#EXTINF:-1 tvg-name="CINE - Cine Latino (Z)" group-title="CANALES-CINE Y SERIES",CINE - Cine Latino (Z)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9627.m3u8
-#EXTINF:-1 tvg-name="CINE - CineCanal (TV)(1080)" group-title="CANALES-CINE Y SERIES",CINE - CineCanal (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9629.m3u8
-#EXTINF:-1 tvg-name="CINE - CineCanal (TV)(720)" group-title="CANALES-CINE Y SERIES",CINE - CineCanal (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9630.m3u8
-#EXTINF:-1 tvg-name="CINE - Cinecanal (Z)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Cinecanal (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9631.m3u8
-#EXTINF:-1 tvg-name="CINE - Cinema Dinamita (Z)(720)" group-title="CANALES-CINE Y SERIES",CINE - Cinema Dinamita (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9632.m3u8
-#EXTINF:-1 tvg-name="CINE - Cinemax (M)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Cinemax (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9633.m3u8
-#EXTINF:-1 tvg-name="CINE - Cinemax (Z)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Cinemax (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9635.m3u8
-#EXTINF:-1 tvg-name="CINE - Comedy Central (L)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Comedy Central (L)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9636.m3u8
-#EXTINF:-1 tvg-name="CINE - Comedy Central (M)(SD)" group-title="CANALES-CINE Y SERIES",CINE - Comedy Central (M)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9637.m3u8
-#EXTINF:-1 tvg-name="CINE - De Pelicula (M)(1080)" group-title="CANALES-CINE Y SERIES",CINE - De Pelicula (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9638.m3u8
-#EXTINF:-1 tvg-name="CINE - De Película (TV)(1080)" group-title="CANALES-CINE Y SERIES",CINE - De Película (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9642.m3u8
-#EXTINF:-1 tvg-name="CINE - De Pelicula Plus (M)(1080)" group-title="CANALES-CINE Y SERIES",CINE - De Pelicula Plus (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9639.m3u8
-#EXTINF:-1 tvg-name="CINE - DHE (TV)(1080)" group-title="CANALES-CINE Y SERIES",CINE - DHE (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9643.m3u8
-#EXTINF:-1 tvg-name="CINE - Distrito Comedia (L)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Distrito Comedia (L)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9644.m3u8
-#EXTINF:-1 tvg-name="CINE - Distrito Comedia (M)(SD)" group-title="CANALES-CINE Y SERIES",CINE - Distrito Comedia (M)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9645.m3u8
-#EXTINF:-1 tvg-name="CINE - E! (M)(1080)" group-title="CANALES-CINE Y SERIES",CINE - E! (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9646.m3u8
-#EXTINF:-1 tvg-name="CINE - El Gourmet (M)(1080)" group-title="CANALES-CINE Y SERIES",CINE - El Gourmet (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9647.m3u8
-#EXTINF:-1 tvg-name="CINE - Europa Europa (M)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Europa Europa (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9648.m3u8
-#EXTINF:-1 tvg-name="CINE - Film & Arts (Z)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Film & Arts (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9649.m3u8
-#EXTINF:-1 tvg-name="CINE - Film And Arts (M)(SD)" group-title="CANALES-CINE Y SERIES",CINE - Film And Arts (M)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9650.m3u8
-#EXTINF:-1 tvg-name="CINE - Filmex (Z)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Filmex (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9640.m3u8
-#EXTINF:-1 tvg-name="CINE - Filmex Clasico (Z)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Filmex Clasico (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9641.m3u8
-#EXTINF:-1 tvg-name="CINE - Food Network (M)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Food Network (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9651.m3u8
-#EXTINF:-1 tvg-name="CINE - FX (L)(720)" group-title="CANALES-CINE Y SERIES",CINE - FX (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9652.m3u8
-#EXTINF:-1 tvg-name="CINE - FX (M)(1080)" group-title="CANALES-CINE Y SERIES",CINE - FX (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9653.m3u8
-#EXTINF:-1 tvg-name="CINE - FX (Z)(1080)" group-title="CANALES-CINE Y SERIES",CINE - FX (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9654.m3u8
-#EXTINF:-1 tvg-name="CINE - FX MEX (TV)(720)" group-title="CANALES-CINE Y SERIES",CINE - FX MEX (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9655.m3u8
-#EXTINF:-1 tvg-name="CINE - Golden (Z)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Golden (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9657.m3u8
-#EXTINF:-1 tvg-name="CINE - Golden Edge (M)(720)" group-title="CANALES-CINE Y SERIES",CINE - Golden Edge (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9658.m3u8
-#EXTINF:-1 tvg-name="CINE - Golden Edge (Z)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Golden Edge (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9659.m3u8
-#EXTINF:-1 tvg-name="CINE - Golden Plus (L)(720)" group-title="CANALES-CINE Y SERIES",CINE - Golden Plus (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9660.m3u8
-#EXTINF:-1 tvg-name="CINE - Golden Plus (M)(1080) [Dual Audio]" group-title="CANALES-CINE Y SERIES",CINE - Golden Plus (M)(1080) [Dual Audio]
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9661.m3u8
-#EXTINF:-1 tvg-name="CINE - Golden Plus (Z)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Golden Plus (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9662.m3u8
-#EXTINF:-1 tvg-name="CINE - Golden Premier 2 (Z)(720)" group-title="CANALES-CINE Y SERIES",CINE - Golden Premier 2 (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9663.m3u8
-#EXTINF:-1 tvg-name="CINE - Golden Premiere (M)(1080) [Dual Audio]" group-title="CANALES-CINE Y SERIES",CINE - Golden Premiere (M)(1080) [Dual Audio]
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9664.m3u8
-#EXTINF:-1 tvg-name="CINE - Golden Premiere 2 (TV)(720)" group-title="CANALES-CINE Y SERIES",CINE - Golden Premiere 2 (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9665.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO (TV)(1080)" group-title="CANALES-CINE Y SERIES",CINE - HBO (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9668.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO (TV)(1080)" group-title="CANALES-CINE Y SERIES",CINE - HBO (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9670.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO (TV)(SD)" group-title="CANALES-CINE Y SERIES",CINE - HBO (TV)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9669.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO 2 (L)(720)" group-title="CANALES-CINE Y SERIES",CINE - HBO 2 (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9671.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO 2 (TV)(1080)" group-title="CANALES-CINE Y SERIES",CINE - HBO 2 (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9673.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO 2 (TV)(720)" group-title="CANALES-CINE Y SERIES",CINE - HBO 2 (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9674.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO 2 (Z)(1080)" group-title="CANALES-CINE Y SERIES",CINE - HBO 2 (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9675.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO Family (L)(1080)" group-title="CANALES-CINE Y SERIES",CINE - HBO Family (L)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9676.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO Family (TV)(1080)" group-title="CANALES-CINE Y SERIES",CINE - HBO Family (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9678.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO Family (TV)(1080)" group-title="CANALES-CINE Y SERIES",CINE - HBO Family (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9679.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO Family (TV)(720)" group-title="CANALES-CINE Y SERIES",CINE - HBO Family (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9680.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO Family. (TV)(SD)" group-title="CANALES-CINE Y SERIES",CINE - HBO Family. (TV)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9677.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO Mundi (L)(720)" group-title="CANALES-CINE Y SERIES",CINE - HBO Mundi (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9682.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO Mundi (TV)(720)" group-title="CANALES-CINE Y SERIES",CINE - HBO Mundi (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9683.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO Plus (M)(1080)" group-title="CANALES-CINE Y SERIES",CINE - HBO Plus (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9685.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO Plus (M)(SD) [Dual Audio]" group-title="CANALES-CINE Y SERIES",CINE - HBO Plus (M)(SD) [Dual Audio]
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9686.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO Plus (TV)(SD)" group-title="CANALES-CINE Y SERIES",CINE - HBO Plus (TV)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9687.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO Plus (Z)(1080)" group-title="CANALES-CINE Y SERIES",CINE - HBO Plus (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9688.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO POP (M)(1080)" group-title="CANALES-CINE Y SERIES",CINE - HBO POP (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9689.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO POP (Z)(720)" group-title="CANALES-CINE Y SERIES",CINE - HBO POP (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9691.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO POP. (TV)(SD)" group-title="CANALES-CINE Y SERIES",CINE - HBO POP. (TV)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9690.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO Signature (TV)(720)" group-title="CANALES-CINE Y SERIES",CINE - HBO Signature (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9693.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO Signature Dual Audio (L)(720)" group-title="CANALES-CINE Y SERIES",CINE - HBO Signature Dual Audio (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9695.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO SUR (Z)" group-title="CANALES-CINE Y SERIES",CINE - HBO SUR (Z)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9696.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO Xtream (TV)(720)" group-title="CANALES-CINE Y SERIES",CINE - HBO Xtream (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9697.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO Xtreme (TV)(SD)" group-title="CANALES-CINE Y SERIES",CINE - HBO Xtreme (TV)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9700.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO Xtreme (Z)(720)" group-title="CANALES-CINE Y SERIES",CINE - HBO Xtreme (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9701.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO Xtreme Dual (L)(720)" group-title="CANALES-CINE Y SERIES",CINE - HBO Xtreme Dual (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9779.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO Xtreme. (M)(720)" group-title="CANALES-CINE Y SERIES",CINE - HBO Xtreme. (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9699.m3u8
-#EXTINF:-1 tvg-name="CINE - HBO. 2 (TV)(1080)" group-title="CANALES-CINE Y SERIES",CINE - HBO. 2 (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9672.m3u8
-#EXTINF:-1 tvg-name="CINE - Paramount Channel. (TV)(720)" group-title="CANALES-CINE Y SERIES",CINE - Paramount Channel. (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9708.m3u8
-#EXTINF:-1 tvg-name="CINE - Sony Comedias (S)(720)" group-title="CANALES-CINE Y SERIES",CINE - Sony Comedias (S)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9714.m3u8
-#EXTINF:-1 tvg-name="CINE - Sony Novelas (TV)(720)" group-title="CANALES-CINE Y SERIES",CINE - Sony Novelas (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9716.m3u8
-#EXTINF:-1 tvg-name="CINE - Space (TV)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Space (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9717.m3u8
-#EXTINF:-1 tvg-name="CINE - Space (TV)(720)" group-title="CANALES-CINE Y SERIES",CINE - Space (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9718.m3u8
-#EXTINF:-1 tvg-name="CINE - STAR Channel CO (M)(1080) [Dual Audio]" group-title="CANALES-CINE Y SERIES",CINE - STAR Channel CO (M)(1080) [Dual Audio]
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9721.m3u8
-#EXTINF:-1 tvg-name="CINE - STAR Channel CO. (M)(720)" group-title="CANALES-CINE Y SERIES",CINE - STAR Channel CO. (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9722.m3u8
-#EXTINF:-1 tvg-name="CINE - STAR Channel MX (L)(1080)" group-title="CANALES-CINE Y SERIES",CINE - STAR Channel MX (L)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9723.m3u8
-#EXTINF:-1 tvg-name="CINE - Star Channel Norte (Z)(720)" group-title="CANALES-CINE Y SERIES",CINE - Star Channel Norte (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9724.m3u8
-#EXTINF:-1 tvg-name="CINE - Star Channel Sur (Z)(720)" group-title="CANALES-CINE Y SERIES",CINE - Star Channel Sur (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9725.m3u8
-#EXTINF:-1 tvg-name="CINE - Star TVE (M)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Star TVE (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9726.m3u8
-#EXTINF:-1 tvg-name="CINE - Starz Comedy (M)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Starz Comedy (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9728.m3u8
-#EXTINF:-1 tvg-name="CINE - Starz Encore Suspense (Z)" group-title="CANALES-CINE Y SERIES",CINE - Starz Encore Suspense (Z)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9730.m3u8
-#EXTINF:-1 tvg-name="CINE - Starz Family (M)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Starz Family (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9731.m3u8
-#EXTINF:-1 tvg-name="CINE - Studio Universal (M)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Studio Universal (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9732.m3u8
-#EXTINF:-1 tvg-name="CINE - Syfy (M)(720)" group-title="CANALES-CINE Y SERIES",CINE - Syfy (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9735.m3u8
-#EXTINF:-1 tvg-name="CINE - TBS (Z)" group-title="CANALES-CINE Y SERIES",CINE - TBS (Z)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9738.m3u8
-#EXTINF:-1 tvg-name="CINE - TBS Very Funny (TV)(720)" group-title="CANALES-CINE Y SERIES",CINE - TBS Very Funny (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9739.m3u8
-#EXTINF:-1 tvg-name="CINE - TCM (M)(SD)" group-title="CANALES-CINE Y SERIES",CINE - TCM (M)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9740.m3u8
-#EXTINF:-1 tvg-name="CINE - TCM (Z)(1080)" group-title="CANALES-CINE Y SERIES",CINE - TCM (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9741.m3u8
-#EXTINF:-1 tvg-name="CINE - TNT (L)(720)" group-title="CANALES-CINE Y SERIES",CINE - TNT (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9742.m3u8
-#EXTINF:-1 tvg-name="CINE - TNT (M)(1080)" group-title="CANALES-CINE Y SERIES",CINE - TNT (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9743.m3u8
-#EXTINF:-1 tvg-name="CINE - TNT (M)(720)" group-title="CANALES-CINE Y SERIES",CINE - TNT (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9744.m3u8
-#EXTINF:-1 tvg-name="CINE - TNT (TV)(1080)" group-title="CANALES-CINE Y SERIES",CINE - TNT (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9745.m3u8
-#EXTINF:-1 tvg-name="CINE - Universal Channel (L)(720)" group-title="CANALES-CINE Y SERIES",CINE - Universal Channel (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9753.m3u8
-#EXTINF:-1 tvg-name="CINE - Universal Channel (M)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Universal Channel (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9755.m3u8
-#EXTINF:-1 tvg-name="CINE - Universal Cinema (L)(720)" group-title="CANALES-CINE Y SERIES",CINE - Universal Cinema (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9756.m3u8
-#EXTINF:-1 tvg-name="CINE - Universal Cinema (M)(1080) [Dual Audio]" group-title="CANALES-CINE Y SERIES",CINE - Universal Cinema (M)(1080) [Dual Audio]
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9757.m3u8
-#EXTINF:-1 tvg-name="CINE - Universal Comedy (TV)(720)" group-title="CANALES-CINE Y SERIES",CINE - Universal Comedy (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9759.m3u8
-#EXTINF:-1 tvg-name="CINE - Universal Crime (L)(720)" group-title="CANALES-CINE Y SERIES",CINE - Universal Crime (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9761.m3u8
-#EXTINF:-1 tvg-name="CINE - Universal Crime (TV)(720)" group-title="CANALES-CINE Y SERIES",CINE - Universal Crime (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9763.m3u8
-#EXTINF:-1 tvg-name="CINE - Universal Crime (Z)(720)" group-title="CANALES-CINE Y SERIES",CINE - Universal Crime (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9764.m3u8
-#EXTINF:-1 tvg-name="CINE - Universal Premier (L)(720)" group-title="CANALES-CINE Y SERIES",CINE - Universal Premier (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9765.m3u8
-#EXTINF:-1 tvg-name="CINE - Universal Premier (M)(1080) [Dual Audio]" group-title="CANALES-CINE Y SERIES",CINE - Universal Premier (M)(1080) [Dual Audio]
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9766.m3u8
-#EXTINF:-1 tvg-name="CINE - Universal Premier (TV)(720)" group-title="CANALES-CINE Y SERIES",CINE - Universal Premier (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9767.m3u8
-#EXTINF:-1 tvg-name="CINE - Universal Premiere Norte (Z)(720)" group-title="CANALES-CINE Y SERIES",CINE - Universal Premiere Norte (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9768.m3u8
-#EXTINF:-1 tvg-name="CINE - Universal Reality (L)(720)" group-title="CANALES-CINE Y SERIES",CINE - Universal Reality (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9770.m3u8
-#EXTINF:-1 tvg-name="CINE - Universal Reality (M)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Universal Reality (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9771.m3u8
-#EXTINF:-1 tvg-name="CINE - Universal Reality (TV)(720)" group-title="CANALES-CINE Y SERIES",CINE - Universal Reality (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9772.m3u8
-#EXTINF:-1 tvg-name="CINE - Universal Reality (Z)(720)" group-title="CANALES-CINE Y SERIES",CINE - Universal Reality (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9773.m3u8
-#EXTINF:-1 tvg-name="CINE - Warner Channel (L)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Warner Channel (L)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9774.m3u8
-#EXTINF:-1 tvg-name="CINE - Warner Channel (TV)(720)" group-title="CANALES-CINE Y SERIES",CINE - Warner Channel (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9776.m3u8
-#EXTINF:-1 tvg-name="CINE - Warner Channel Dual Audio (M)(1080)" group-title="CANALES-CINE Y SERIES",CINE - Warner Channel Dual Audio (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9775.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Claro Sports 2 (Z)(720)" group-title="CANALES-DEPORTES",DEPORTES - Claro Sports 2 (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9556.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Directv Sports + (L)(720)" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports + (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9557.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Directv Sports + (TV)(720)" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports + (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9558.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Directv Sports + (TV)(720)" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports + (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9559.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Directv Sports 1 (ARG) (TV)(1080)" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 (ARG) (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9560.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Directv Sports 2 ARG (L)(720)" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 2 ARG (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9566.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Directv Sports Fight (TV)(720)" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports Fight (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9568.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Espn 1 ARG (i)(720)" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (i)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9520.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Espn 1 ARG (TV)(1080)" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9521.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Espn 1 ARG (Z)(720)" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9522.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Espn 2 ARG (e)(720)" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 ARG (e)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9526.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Espn 2 ARG (PM)(1080)" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 ARG (PM)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9527.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Espn 2 ARG (Z)(720)" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 ARG (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9528.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Espn 3 ARG (L)(720)" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 ARG (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9533.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Espn 3 ARG (Z)(720)" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 ARG (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9534.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Espn 4 (TV)(720)" group-title="CANALES-DEPORTES",DEPORTES - Espn 4 (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9538.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Espn Extra ARG (L)(1080)" group-title="CANALES-DEPORTES",DEPORTES - Espn Extra ARG (L)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9545.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - ESPN Premium ARG (L)(SD)" group-title="CANALES-DEPORTES",DEPORTES - ESPN Premium ARG (L)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9549.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Espn Premium ARG (M)(1080)" group-title="CANALES-DEPORTES",DEPORTES - Espn Premium ARG (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9546.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - ESPN Premium ARG (TV)(1080)" group-title="CANALES-DEPORTES",DEPORTES - ESPN Premium ARG (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9550.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Fight BOX  (TV)(1080)" group-title="CANALES-DEPORTES",DEPORTES - Fight BOX  (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9570.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Fox Deportes (TV)(720)" group-title="CANALES-DEPORTES",DEPORTES - Fox Deportes (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9571.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - FOX DEPORTES (Z)(720)" group-title="CANALES-DEPORTES",DEPORTES - FOX DEPORTES (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9572.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 1 ARG (L)(720)" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 ARG (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9575.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 1 ARG (M)(720)" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 ARG (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9576.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 2 ARG (i)(1080)" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 ARG (i)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9582.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 2 ARG (L)(SD)" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 ARG (L)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9581.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 3 ARG (i)(1080)" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 ARG (i)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9588.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 3 ARG (TV)(1080)" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 ARG (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9589.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Gol TV ES (M)(720)" group-title="CANALES-DEPORTES",DEPORTES - Gol TV ES (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9594.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Gol TV Internacional (TV)(720)" group-title="CANALES-DEPORTES",DEPORTES - Gol TV Internacional (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9595.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Golf Latin America (M)(SD)" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin America (M)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9596.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Golf Latin MEX (M)(1080)" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin MEX (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9597.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - NBA U (M)(720)" group-title="CANALES-DEPORTES",DEPORTES - NBA U (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9598.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Real Madrid TV (i)(720)" group-title="CANALES-DEPORTES",DEPORTES - Real Madrid TV (i)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/165482.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Sky sports (TV)(720)" group-title="CANALES-DEPORTES",DEPORTES - Sky sports (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9599.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - SKY Sports La liga (TV)(720)" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports La liga (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9601.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - SKY Sports LaLiga (Z)(720)" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports LaLiga (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/164158.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - SKY Sports Premier League (Z)(720)" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports Premier League (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/164159.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - Tennis Channel (L)(720)" group-title="CANALES-DEPORTES",DEPORTES - Tennis Channel (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9602.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - TUDN - MEX (M)(720)" group-title="CANALES-DEPORTES",DEPORTES - TUDN - MEX (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9603.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - TUDN - MEX (Z)(720)" group-title="CANALES-DEPORTES",DEPORTES - TUDN - MEX (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9604.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - TUDN - USA (TV)(720)" group-title="CANALES-DEPORTES",DEPORTES - TUDN - USA (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9605.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - TUDN - USA (Z)(720)" group-title="CANALES-DEPORTES",DEPORTES - TUDN - USA (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9606.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - TVC Deportes (L)(1080)" group-title="CANALES-DEPORTES",DEPORTES - TVC Deportes (L)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9607.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - TyC Sports INT (i)(720)" group-title="CANALES-DEPORTES",DEPORTES - TyC Sports INT (i)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9608.m3u8
-#EXTINF:-1 tvg-name="DEPORTES - TyC Sports INT (TV)(720)" group-title="CANALES-DEPORTES",DEPORTES - TyC Sports INT (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9609.m3u8
-#EXTINF:-1 tvg-name="DOC-Animal Planet (L)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Animal Planet (L)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9811.m3u8
-#EXTINF:-1 tvg-name="DOC-Animal Planet (M)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Animal Planet (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9812.m3u8
-#EXTINF:-1 tvg-name="DOC-Animal Planet (TV)(720)" group-title="CANALES-DOCUMENTALES",DOC-Animal Planet (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9813.m3u8
-#EXTINF:-1 tvg-name="DOC-Animal Planet (Z)(720)" group-title="CANALES-DOCUMENTALES",DOC-Animal Planet (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9780.m3u8
-#EXTINF:-1 tvg-name="DOC-Comedy Central (Z)(1080)." group-title="CANALES-CINE Y SERIES",DOC-Comedy Central (Z)(1080).
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9781.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery Channel (L)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Discovery Channel (L)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9814.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery Channel (TV)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Discovery Channel (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9816.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery Channel (Z)(720)" group-title="CANALES-DOCUMENTALES",DOC-Discovery Channel (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9782.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery Familia (TV)(720)" group-title="CANALES-DOCUMENTALES",DOC-Discovery Familia (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9817.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery FAMILIA (Z)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Discovery FAMILIA (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9783.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery Familia (Z)(720)" group-title="CANALES-DOCUMENTALES",DOC-Discovery Familia (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9818.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery H&H (Z)(720)" group-title="CANALES-DOCUMENTALES",DOC-Discovery H&H (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9784.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery HGTV (TV)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Discovery HGTV (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9819.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery Home & Health (M)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Discovery Home & Health (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9821.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery Home & Health (TV)(720)" group-title="CANALES-DOCUMENTALES",DOC-Discovery Home & Health (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9820.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery ID (Z)" group-title="CANALES-DOCUMENTALES",DOC-Discovery ID (Z)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9785.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery Science (L)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Discovery Science (L)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9822.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery Science (TV)(720)" group-title="CANALES-DOCUMENTALES",DOC-Discovery Science (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9823.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery Science (Z)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Discovery Science (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9786.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery Theater (L)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Discovery Theater (L)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9787.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery Theater (M)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Discovery Theater (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9824.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery Theater (Z)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Discovery Theater (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9788.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery TLC (L)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Discovery TLC (L)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9825.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery TLC (M)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Discovery TLC (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9826.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery TLC (M)(SD)" group-title="CANALES-DOCUMENTALES",DOC-Discovery TLC (M)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9827.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery TURBO (L)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Discovery TURBO (L)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9829.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery Turbo (M)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Discovery Turbo (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9830.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery Turbo (Z)(720)" group-title="CANALES-DOCUMENTALES",DOC-Discovery Turbo (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9789.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery World (L)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Discovery World (L)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9831.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery World (M)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Discovery World (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9832.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery World (M)(720)" group-title="CANALES-DOCUMENTALES",DOC-Discovery World (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9833.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery World (M)(SD)" group-title="CANALES-DOCUMENTALES",DOC-Discovery World (M)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9834.m3u8
-#EXTINF:-1 tvg-name="DOC-Discovery World (Z)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Discovery World (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9790.m3u8
-#EXTINF:-1 tvg-name="DOC-DW En Español (Z)(1080)" group-title="CANALES-DOCUMENTALES",DOC-DW En Español (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9791.m3u8
-#EXTINF:-1 tvg-name="DOC-Food Network (Z)(720)" group-title="CANALES-DOCUMENTALES",DOC-Food Network (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9792.m3u8
-#EXTINF:-1 tvg-name="DOC-Garage TV (Z)(720)" group-title="CANALES-DOCUMENTALES",DOC-Garage TV (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9793.m3u8
-#EXTINF:-1 tvg-name="DOC-Glitz (Z)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Glitz (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9794.m3u8
-#EXTINF:-1 tvg-name="DOC-Gourmet (Z)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Gourmet (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9795.m3u8
-#EXTINF:-1 tvg-name="DOC-H2 (M)(1080)" group-title="CANALES-DOCUMENTALES",DOC-H2 (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9836.m3u8
-#EXTINF:-1 tvg-name="DOC-H2 (TV)(720)" group-title="CANALES-DOCUMENTALES",DOC-H2 (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9837.m3u8
-#EXTINF:-1 tvg-name="DOC-HGTV (Z)(1080)" group-title="CANALES-DOCUMENTALES",DOC-HGTV (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9796.m3u8
-#EXTINF:-1 tvg-name="DOC-History (L)(1080) (1080p)" group-title="CANALES-DOCUMENTALES",DOC-History (L)(1080) (1080p)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9838.m3u8
-#EXTINF:-1 tvg-name="DOC-History (Z)(1080)" group-title="CANALES-DOCUMENTALES",DOC-History (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9797.m3u8
-#EXTINF:-1 tvg-name="DOC-History 2 (L)(1080)" group-title="CANALES-DOCUMENTALES",DOC-History 2 (L)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9839.m3u8
-#EXTINF:-1 tvg-name="DOC-History 2 (Z)(1080)" group-title="CANALES-DOCUMENTALES",DOC-History 2 (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9798.m3u8
-#EXTINF:-1 tvg-name="DOC-History Channel (M)(1080)" group-title="CANALES-DOCUMENTALES",DOC-History Channel (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9840.m3u8
-#EXTINF:-1 tvg-name="DOC-History Channel (TV)(1080)" group-title="CANALES-DOCUMENTALES",DOC-History Channel (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9841.m3u8
-#EXTINF:-1 tvg-name="DOC-Hola TV (Z)(720)" group-title="CANALES-DOCUMENTALES",DOC-Hola TV (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9799.m3u8
-#EXTINF:-1 tvg-name="DOC-Investigation Discovery (L)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Investigation Discovery (L)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9842.m3u8
-#EXTINF:-1 tvg-name="DOC-Investigation Discovery (M)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Investigation Discovery (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9843.m3u8
-#EXTINF:-1 tvg-name="DOC-Investigation Discovery (M)(SD)" group-title="CANALES-DOCUMENTALES",DOC-Investigation Discovery (M)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9844.m3u8
-#EXTINF:-1 tvg-name="DOC-Lifetime (Z)(720)" group-title="CANALES-DOCUMENTALES",DOC-Lifetime (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9800.m3u8
-#EXTINF:-1 tvg-name="DOC-Lifetime 2 (Z)" group-title="CANALES-DOCUMENTALES",DOC-Lifetime 2 (Z)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9801.m3u8
-#EXTINF:-1 tvg-name="DOC-Love Nature (TV)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Love Nature (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9845.m3u8
-#EXTINF:-1 tvg-name="DOC-Love Nature (Z)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Love Nature (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9802.m3u8
-#EXTINF:-1 tvg-name="DOC-Mas Chic (Z)(720)" group-title="CANALES-DOCUMENTALES",DOC-Mas Chic (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9803.m3u8
-#EXTINF:-1 tvg-name="DOC-NatGeo (M)(1080)" group-title="CANALES-DOCUMENTALES",DOC-NatGeo (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9847.m3u8
-#EXTINF:-1 tvg-name="DOC-NatGeo (TV)(720)" group-title="CANALES-DOCUMENTALES",DOC-NatGeo (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9846.m3u8
-#EXTINF:-1 tvg-name="DOC-Natgeo (Z)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Natgeo (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9805.m3u8
-#EXTINF:-1 tvg-name="DOC-NatGeo Mundo (TV)(720)" group-title="CANALES-DOCUMENTALES",DOC-NatGeo Mundo (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9848.m3u8
-#EXTINF:-1 tvg-name="DOC-Natgeo Wild (Z)(1080)" group-title="CANALES-DOCUMENTALES",DOC-Natgeo Wild (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9807.m3u8
-#EXTINF:-1 tvg-name="DOC-NatGeo Wild Ñ (TV)(720)" group-title="CANALES-DOCUMENTALES",DOC-NatGeo Wild Ñ (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9849.m3u8
-#EXTINF:-1 tvg-name="DOC-Smithsonian Channel (L)(720)" group-title="CANALES-DOCUMENTALES",DOC-Smithsonian Channel (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9850.m3u8
-#EXTINF:-1 tvg-name="DOC-Smithsonian Channel (Z)" group-title="CANALES-DOCUMENTALES",DOC-Smithsonian Channel (Z)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9808.m3u8
-#EXTINF:-1 tvg-name="DOC-Tastemade (W)(720)" group-title="CANALES-DOCUMENTALES",DOC-Tastemade (W)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9809.m3u8
-#EXTINF:-1 tvg-name="DOC-TLC (Z)(1080)" group-title="CANALES-DOCUMENTALES",DOC-TLC (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9810.m3u8
-#EXTINF:-1 tvg-name="DOC-TRU TV (L)(1080)" group-title="CANALES-DOCUMENTALES",DOC-TRU TV (L)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9852.m3u8
-#EXTINF:-1 tvg-name="ES DAZN 1 F(M)(720)" group-title="ESPAÑA",ES DAZN 1 F(M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161922.m3u8
-#EXTINF:-1 tvg-name="ES DAZN 2 F(M)(720)" group-title="ESPAÑA",ES DAZN 2 F(M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161923.m3u8
-#EXTINF:-1 tvg-name="ES DAZN 3 (M)(720)" group-title="ESPAÑA",ES DAZN 3 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161925.m3u8
-#EXTINF:-1 tvg-name="ESP -  CINE ESPANOL (M)(720)" group-title="ESPAÑA",ESP -  CINE ESPANOL (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161883.m3u8
-#EXTINF:-1 tvg-name="ESP -  Dark2 (M)(720)" group-title="ESPAÑA",ESP -  Dark2 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161892.m3u8
-#EXTINF:-1 tvg-name="ESP -  Dazn F1 (M)(720)" group-title="ESPAÑA",ESP -  Dazn F1 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161953.m3u8
-#EXTINF:-1 tvg-name="ESP -  VIAJAR (M)(720)" group-title="ESPAÑA",ESP -  VIAJAR (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161899.m3u8
-#EXTINF:-1 tvg-name="ESP - #0 (M)(720)" group-title="ESPAÑA",ESP - #0 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161928.m3u8
-#EXTINF:-1 tvg-name="ESP - #VAMOS (M)(720)" group-title="ESPAÑA",ESP - #VAMOS (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161900.m3u8
-#EXTINF:-1 tvg-name="ESP - #VAMOS (M)(720)" group-title="ESPAÑA",ESP - #VAMOS (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161921.m3u8
-#EXTINF:-1 tvg-name="ESP - #Vamos (TV)(1080)" group-title="ESPAÑA",ESP - #Vamos (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8134.m3u8
-#EXTINF:-1 tvg-name="ESP - 24 Horas (M)(720)" group-title="ESPAÑA",ESP - 24 Horas (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161929.m3u8
-#EXTINF:-1 tvg-name="ESP - 24h (TV)(720)" group-title="ESPAÑA",ESP - 24h (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8136.m3u8
-#EXTINF:-1 tvg-name="ESP - A3 Series (M)(720)" group-title="ESPAÑA",ESP - A3 Series (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161930.m3u8
-#EXTINF:-1 tvg-name="ESP - A3Series (TV)(1080)" group-title="ESPAÑA",ESP - A3Series (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8138.m3u8
-#EXTINF:-1 tvg-name="ESP - ACCION (M)(720)" group-title="ESPAÑA",ESP - ACCION (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161904.m3u8
-#EXTINF:-1 tvg-name="ESP - AMC (M)(720)" group-title="ESPAÑA",ESP - AMC (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161982.m3u8
-#EXTINF:-1 tvg-name="ESP - AMC (TV)(1080)" group-title="ESPAÑA",ESP - AMC (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8140.m3u8
-#EXTINF:-1 tvg-name="ESP - Antena 3 (M)(720)" group-title="ESPAÑA",ESP - Antena 3 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161895.m3u8
-#EXTINF:-1 tvg-name="ESP - Antena 3 (M)(720)" group-title="ESPAÑA",ESP - Antena 3 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162006.m3u8
-#EXTINF:-1 tvg-name="ESP - Antena 3 Internacional (TV)(1080)" group-title="ESPAÑA",ESP - Antena 3 Internacional (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8143.m3u8
-#EXTINF:-1 tvg-name="ESP - ARAGON TV (M)(720)" group-title="ESPAÑA",ESP - ARAGON TV (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161981.m3u8
-#EXTINF:-1 tvg-name="ESP - AXN (M)(720)" group-title="ESPAÑA",ESP - AXN (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161980.m3u8
-#EXTINF:-1 tvg-name="ESP - AXN WHITE (M)(720)" group-title="ESPAÑA",ESP - AXN WHITE (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161979.m3u8
-#EXTINF:-1 tvg-name="ESP - AXN White (TV)(1080)" group-title="ESPAÑA",ESP - AXN White (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8146.m3u8
-#EXTINF:-1 tvg-name="ESP - AXN WHITE. (M)(720)" group-title="ESPAÑA",ESP - AXN WHITE. (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161884.m3u8
-#EXTINF:-1 tvg-name="ESP - BABY TV (M)(720)" group-title="ESPAÑA",ESP - BABY TV (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161927.m3u8
-#EXTINF:-1 tvg-name="ESP - Baby TV (TV)(720)" group-title="ESPAÑA",ESP - Baby TV (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8148.m3u8
-#EXTINF:-1 tvg-name="ESP - BARCA TV (M)(720)" group-title="ESPAÑA",ESP - BARCA TV (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161978.m3u8
-#EXTINF:-1 tvg-name="ESP - Be Mad (M)(720)" group-title="ESPAÑA",ESP - Be Mad (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161977.m3u8
-#EXTINF:-1 tvg-name="ESP - BEIN LALIGA 1 (M)(720)" group-title="ESPAÑA",ESP - BEIN LALIGA 1 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161871.m3u8
-#EXTINF:-1 tvg-name="ESP - BEIN SPORTS F(M)(720)" group-title="ESPAÑA",ESP - BEIN SPORTS F(M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161876.m3u8
-#EXTINF:-1 tvg-name="ESP - BEIN SPORTS LA LIGA (M)(720)" group-title="ESPAÑA",ESP - BEIN SPORTS LA LIGA (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161872.m3u8
-#EXTINF:-1 tvg-name="ESP - BeMad (TV)(1080)" group-title="ESPAÑA",ESP - BeMad (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8151.m3u8
-#EXTINF:-1 tvg-name="ESP - BLAZE (M)(720)" group-title="ESPAÑA",ESP - BLAZE (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161926.m3u8
-#EXTINF:-1 tvg-name="ESP - BLAZE (M)(720)" group-title="ESPAÑA",ESP - BLAZE (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161976.m3u8
-#EXTINF:-1 tvg-name="ESP - BLOOMBERG (M)(720)" group-title="ESPAÑA",ESP - BLOOMBERG (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161932.m3u8
-#EXTINF:-1 tvg-name="ESP - Boing (M)(720)" group-title="ESPAÑA",ESP - Boing (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161984.m3u8
-#EXTINF:-1 tvg-name="ESP - Bom Cine (TV)(720)" group-title="ESPAÑA",ESP - Bom Cine (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8154.m3u8
-#EXTINF:-1 tvg-name="ESP - CALLE 13 (M)(720)" group-title="ESPAÑA",ESP - CALLE 13 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161886.m3u8
-#EXTINF:-1 tvg-name="ESP - CALLE 13 (M)(720)" group-title="ESPAÑA",ESP - CALLE 13 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161975.m3u8
-#EXTINF:-1 tvg-name="ESP - Calle 13 (TV)(1080)" group-title="ESPAÑA",ESP - Calle 13 (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8156.m3u8
-#EXTINF:-1 tvg-name="ESP - Canal Casa (M)(720)" group-title="ESPAÑA",ESP - Canal Casa (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161969.m3u8
-#EXTINF:-1 tvg-name="ESP - CANAL COCINA (M)(720)" group-title="ESPAÑA",ESP - CANAL COCINA (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161972.m3u8
-#EXTINF:-1 tvg-name="ESP - CANAL GOLF F(M)(720)" group-title="ESPAÑA",ESP - CANAL GOLF F(M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161933.m3u8
-#EXTINF:-1 tvg-name="ESP - CANAL SUR (M)(720)" group-title="ESPAÑA",ESP - CANAL SUR (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161934.m3u8
-#EXTINF:-1 tvg-name="ESP - Caza y Pesca (M)(720)" group-title="ESPAÑA",ESP - Caza y Pesca (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161974.m3u8
-#EXTINF:-1 tvg-name="ESP - CLAN TVE (M)(720)" group-title="ESPAÑA",ESP - CLAN TVE (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161973.m3u8
-#EXTINF:-1 tvg-name="ESP - Cocina TV (M)(720)" group-title="ESPAÑA",ESP - Cocina TV (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161891.m3u8
-#EXTINF:-1 tvg-name="ESP - COMEDIA. (M)(720)" group-title="ESPAÑA",ESP - COMEDIA. (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161882.m3u8
-#EXTINF:-1 tvg-name="ESP - Comedy Central (M)(720)" group-title="ESPAÑA",ESP - Comedy Central (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161971.m3u8
-#EXTINF:-1 tvg-name="ESP - COMEDY CENTRAL (M)(720)" group-title="ESPAÑA",ESP - COMEDY CENTRAL (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161920.m3u8
-#EXTINF:-1 tvg-name="ESP - Cosmo (M)(720)" group-title="ESPAÑA",ESP - Cosmo (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161970.m3u8
-#EXTINF:-1 tvg-name="ESP - COSMO. (M)(720)" group-title="ESPAÑA",ESP - COSMO. (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161913.m3u8
-#EXTINF:-1 tvg-name="ESP - CRIME AND INVESTIGATION (M)(720)" group-title="ESPAÑA",ESP - CRIME AND INVESTIGATION (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161935.m3u8
-#EXTINF:-1 tvg-name="ESP - Cuatro (M)(720)" group-title="ESPAÑA",ESP - Cuatro (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161894.m3u8
-#EXTINF:-1 tvg-name="ESP - Cuatro (M)(720)" group-title="ESPAÑA",ESP - Cuatro (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162005.m3u8
-#EXTINF:-1 tvg-name="ESP - DARK (TV)(1080)" group-title="ESPAÑA",ESP - DARK (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8168.m3u8
-#EXTINF:-1 tvg-name="ESP - DAZN 4 F(M)(720)" group-title="ESPAÑA",ESP - DAZN 4 F(M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161924.m3u8
-#EXTINF:-1 tvg-name="ESP - DISCOVERY CHANNEL(M)(720)" group-title="ESPAÑA",ESP - DISCOVERY CHANNEL(M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161936.m3u8
-#EXTINF:-1 tvg-name="ESP - DISNEY (M)(720)" group-title="ESPAÑA",ESP - DISNEY (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161967.m3u8
-#EXTINF:-1 tvg-name="ESP - DISNEY CHANEL (M)(720)" group-title="ESPAÑA",ESP - DISNEY CHANEL (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161966.m3u8
-#EXTINF:-1 tvg-name="ESP - DISNEY CHANNEL (M)(720)" group-title="ESPAÑA",ESP - DISNEY CHANNEL (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161903.m3u8
-#EXTINF:-1 tvg-name="ESP - Disney Channel (TV)(1080)" group-title="ESPAÑA",ESP - Disney Channel (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8171.m3u8
-#EXTINF:-1 tvg-name="ESP - Disney Jr (M)(720)" group-title="ESPAÑA",ESP - Disney Jr (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161968.m3u8
-#EXTINF:-1 tvg-name="ESP - Divinity (M)(720)" group-title="ESPAÑA",ESP - Divinity (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161965.m3u8
-#EXTINF:-1 tvg-name="ESP - DKISS (M)(720)" group-title="ESPAÑA",ESP - DKISS (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161964.m3u8
-#EXTINF:-1 tvg-name="ESP - DMAX (M)(720)" group-title="ESPAÑA",ESP - DMAX (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161937.m3u8
-#EXTINF:-1 tvg-name="ESP - Energy (M)(720)" group-title="ESPAÑA",ESP - Energy (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161890.m3u8
-#EXTINF:-1 tvg-name="ESP - Energy (TV)(SD)" group-title="ESPAÑA",ESP - Energy (TV)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8179.m3u8
-#EXTINF:-1 tvg-name="ESP - ETB 1 (M)(720)" group-title="ESPAÑA",ESP - ETB 1 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162024.m3u8
-#EXTINF:-1 tvg-name="ESP - ETB 2 (M)(720)" group-title="ESPAÑA",ESP - ETB 2 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162025.m3u8
-#EXTINF:-1 tvg-name="ESP - ETB Basque (M)(720)" group-title="ESPAÑA",ESP - ETB Basque (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162026.m3u8
-#EXTINF:-1 tvg-name="ESP - EUROSPORT 1 (M)(720)" group-title="ESPAÑA",ESP - EUROSPORT 1 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161908.m3u8
-#EXTINF:-1 tvg-name="ESP - EUROSPORT 1 (M)(720)" group-title="ESPAÑA",ESP - EUROSPORT 1 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161919.m3u8
-#EXTINF:-1 tvg-name="ESP - Eurosport 1 (TV)(720)" group-title="ESPAÑA",ESP - Eurosport 1 (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8180.m3u8
-#EXTINF:-1 tvg-name="ESP - Eurosport 2 (M)(720)" group-title="ESPAÑA",ESP - Eurosport 2 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161958.m3u8
-#EXTINF:-1 tvg-name="ESP - Eurosport 2 (TV)(720)" group-title="ESPAÑA",ESP - Eurosport 2 (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8181.m3u8
-#EXTINF:-1 tvg-name="ESP - FDF (M)(720)" group-title="ESPAÑA",ESP - FDF (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161963.m3u8
-#EXTINF:-1 tvg-name="ESP - Fox (M)(720)" group-title="ESPAÑA",ESP - Fox (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161887.m3u8
-#EXTINF:-1 tvg-name="ESP - FOX (M)(720)" group-title="ESPAÑA",ESP - FOX (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161918.m3u8
-#EXTINF:-1 tvg-name="ESP - FOX (M)(720)" group-title="ESPAÑA",ESP - FOX (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161962.m3u8
-#EXTINF:-1 tvg-name="ESP - Fox Life (M)(720)" group-title="ESPAÑA",ESP - Fox Life (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161888.m3u8
-#EXTINF:-1 tvg-name="ESP - FOX NEWS (M)(720)" group-title="ESPAÑA",ESP - FOX NEWS (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161938.m3u8
-#EXTINF:-1 tvg-name="ESP - GALICIA TV (M)(720)" group-title="ESPAÑA",ESP - GALICIA TV (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161939.m3u8
-#EXTINF:-1 tvg-name="ESP - GOL (TV)(1080)" group-title="ESPAÑA",ESP - GOL (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8187.m3u8
-#EXTINF:-1 tvg-name="ESP - GOL TV (M)(720)" group-title="ESPAÑA",ESP - GOL TV (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161957.m3u8
-#EXTINF:-1 tvg-name="ESP - HISTORIA (M)(720)" group-title="ESPAÑA",ESP - HISTORIA (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161906.m3u8
-#EXTINF:-1 tvg-name="ESP - HOLLYWOOD (M)(720)" group-title="ESPAÑA",ESP - HOLLYWOOD (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161985.m3u8
-#EXTINF:-1 tvg-name="ESP - HOLLYWOOD(M)(720)" group-title="ESPAÑA",ESP - HOLLYWOOD(M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161917.m3u8
-#EXTINF:-1 tvg-name="ESP - I24 NEWS (M)(720)" group-title="ESPAÑA",ESP - I24 NEWS (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161902.m3u8
-#EXTINF:-1 tvg-name="ESP - IBERALIA (M)(720)" group-title="ESPAÑA",ESP - IBERALIA (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161905.m3u8
-#EXTINF:-1 tvg-name="ESP - IBERALIA TV (M)(720)" group-title="ESPAÑA",ESP - IBERALIA TV (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161956.m3u8
-#EXTINF:-1 tvg-name="ESP - La 1 (M)(720)" group-title="ESPAÑA",ESP - La 1 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161897.m3u8
-#EXTINF:-1 tvg-name="ESP - La 1 (TV)(1080)" group-title="ESPAÑA",ESP - La 1 (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8192.m3u8
-#EXTINF:-1 tvg-name="ESP - La 2 (M)(720)" group-title="ESPAÑA",ESP - La 2 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161896.m3u8
-#EXTINF:-1 tvg-name="ESP - La 2 (TV)(1080)" group-title="ESPAÑA",ESP - La 2 (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8193.m3u8
-#EXTINF:-1 tvg-name="ESP - LA LIGA 2 TV (M)(720)" group-title="ESPAÑA",ESP - LA LIGA 2 TV (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161875.m3u8
-#EXTINF:-1 tvg-name="ESP - LA LIGA TV (M)(720) BAR" group-title="ESPAÑA",ESP - LA LIGA TV (M)(720) BAR
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161877.m3u8
-#EXTINF:-1 tvg-name="ESP - LA LIGA TV BAR 1 [LIVE-EVENT]" group-title="ESPAÑA",ESP - LA LIGA TV BAR 1 [LIVE-EVENT]
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161916.m3u8
-#EXTINF:-1 tvg-name="ESP - La Sexta (M)(720)" group-title="ESPAÑA",ESP - La Sexta (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162004.m3u8
-#EXTINF:-1 tvg-name="ESP - La Sexta (TV)(1080)" group-title="ESPAÑA",ESP - La Sexta (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8195.m3u8
-#EXTINF:-1 tvg-name="ESP - M. Accion (TV)(1080)" group-title="ESPAÑA",ESP - M. Accion (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8196.m3u8
-#EXTINF:-1 tvg-name="ESP - M. Cine Español (TV)(720)" group-title="ESPAÑA",ESP - M. Cine Español (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8197.m3u8
-#EXTINF:-1 tvg-name="ESP - M. Comedia (TV)(1080)" group-title="ESPAÑA",ESP - M. Comedia (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8198.m3u8
-#EXTINF:-1 tvg-name="ESP - M. Deportes (TV)(1080)" group-title="ESPAÑA",ESP - M. Deportes (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8199.m3u8
-#EXTINF:-1 tvg-name="ESP - M. Drama (TV)(1080)" group-title="ESPAÑA",ESP - M. Drama (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8200.m3u8
-#EXTINF:-1 tvg-name="ESP - M. Dreamworks (TV)(1080)" group-title="ESPAÑA",ESP - M. Dreamworks (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8201.m3u8
-#EXTINF:-1 tvg-name="ESP - M. Golf (TV)(1080)" group-title="ESPAÑA",ESP - M. Golf (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8202.m3u8
-#EXTINF:-1 tvg-name="ESP - M. Series (TV)(1080)" group-title="ESPAÑA",ESP - M. Series (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8203.m3u8
-#EXTINF:-1 tvg-name="ESP - MADRID TV (M)(720)" group-title="ESPAÑA",ESP - MADRID TV (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161952.m3u8
-#EXTINF:-1 tvg-name="ESP - Mega (L)(720)" group-title="ESPAÑA",ESP - Mega (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8204.m3u8
-#EXTINF:-1 tvg-name="ESP - Mega (M)(720)" group-title="ESPAÑA",ESP - Mega (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161961.m3u8
-#EXTINF:-1 tvg-name="ESP - MEGA (TV)(1080)" group-title="ESPAÑA",ESP - MEGA (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8205.m3u8
-#EXTINF:-1 tvg-name="ESP - MEZZO LIVE (M)(720)" group-title="ESPAÑA",ESP - MEZZO LIVE (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161960.m3u8
-#EXTINF:-1 tvg-name="ESP - MEZZO LIVE (M)(720)" group-title="ESPAÑA",ESP - MEZZO LIVE (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162013.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR ACCION (M)(720)" group-title="ESPAÑA",ESP - MOVISTAR ACCION (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161879.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR ACCION (M)(720)" group-title="ESPAÑA",ESP - MOVISTAR ACCION (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162003.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR CINE N (M)(720)" group-title="ESPAÑA",ESP - MOVISTAR CINE N (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162001.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR CINEDOC&ROLL (M)(720)" group-title="ESPAÑA",ESP - MOVISTAR CINEDOC&ROLL (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161941.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR COMEDIA (M)(720)" group-title="ESPAÑA",ESP - MOVISTAR COMEDIA (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161943.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR COMEDIA (M)(720)" group-title="ESPAÑA",ESP - MOVISTAR COMEDIA (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162010.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR DEPORTE 2 (M)(720)" group-title="ESPAÑA",ESP - MOVISTAR DEPORTE 2 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161873.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR DEPORTE 3 (M)(720)" group-title="ESPAÑA",ESP - MOVISTAR DEPORTE 3 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161874.m3u8
-#EXTINF:-1 tvg-name="ESP - Movistar Deportes (i)(720)" group-title="ESPAÑA",ESP - Movistar Deportes (i)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161940.m3u8
-#EXTINF:-1 tvg-name="ESP - Movistar Deportes (M)(720)" group-title="ESPAÑA",ESP - Movistar Deportes (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161955.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR DEPORTES (M)(720)" group-title="ESPAÑA",ESP - MOVISTAR DEPORTES (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161878.m3u8
-#EXTINF:-1 tvg-name="ESP - Movistar Deportes 1 (M)(720)" group-title="ESPAÑA",ESP - Movistar Deportes 1 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162023.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR DEPORTES 2 (M)(720)" group-title="ESPAÑA",ESP - MOVISTAR DEPORTES 2 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161942.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR DEPORTES(M)(720)" group-title="ESPAÑA",ESP - MOVISTAR DEPORTES(M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161915.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR Disney (M)(720)" group-title="ESPAÑA",ESP - MOVISTAR Disney (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162002.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR DRAMA (M)(720)" group-title="ESPAÑA",ESP - MOVISTAR DRAMA (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161880.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR DRAMA (M)(720)" group-title="ESPAÑA",ESP - MOVISTAR DRAMA (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161914.m3u8
-#EXTINF:-1 tvg-name="ESP - MoviStar ESTRENOS (M)(720)" group-title="ESPAÑA",ESP - MoviStar ESTRENOS (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162000.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR ESTRENOS (M)(720)" group-title="ESPAÑA",ESP - MOVISTAR ESTRENOS (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161909.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR FORMULA 1 (M)(720)" group-title="ESPAÑA",ESP - MOVISTAR FORMULA 1 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161910.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR FOTBOL F(M)(720) 4K" group-title="ESPAÑA",ESP - MOVISTAR FOTBOL F(M)(720) 4K
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161907.m3u8
-#EXTINF:-1 tvg-name="ESP - Movistar LaLiga (L)(720)" group-title="ESPAÑA",ESP - Movistar LaLiga (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162017.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR LALIGA (L)(720)" group-title="ESPAÑA",ESP - MOVISTAR LALIGA (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161931.m3u8
-#EXTINF:-1 tvg-name="ESP - Movistar LaLiga (M)(720)" group-title="ESPAÑA",ESP - Movistar LaLiga (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161912.m3u8
-#EXTINF:-1 tvg-name="ESP - Movistar LaLiga (M)(720)" group-title="ESPAÑA",ESP - Movistar LaLiga (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162018.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR LIGA CAMPEONES" group-title="ESPAÑA",ESP - MOVISTAR LIGA CAMPEONES
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162012.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR LIGA CAMPEONES 2 [LIVE-EVENT]" group-title="ESPAÑA",ESP - MOVISTAR LIGA CAMPEONES 2 [LIVE-EVENT]
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162011.m3u8
-#EXTINF:-1 tvg-name="ESP - Movistar Liga de Campeones (M)(720)" group-title="ESPAÑA",ESP - Movistar Liga de Campeones (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161959.m3u8
-#EXTINF:-1 tvg-name="ESP - Movistar Liga de Campeones (M)(720)" group-title="ESPAÑA",ESP - Movistar Liga de Campeones (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162021.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR SERIE (M)(720)" group-title="ESPAÑA",ESP - MOVISTAR SERIE (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161944.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR SERIE MANIA (M)(720)" group-title="ESPAÑA",ESP - MOVISTAR SERIE MANIA (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161945.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR SERIES (M)(720)" group-title="ESPAÑA",ESP - MOVISTAR SERIES (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161901.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTAR SERIES MANIA (M)(720)" group-title="ESPAÑA",ESP - MOVISTAR SERIES MANIA (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162009.m3u8
-#EXTINF:-1 tvg-name="ESP - MOVISTARr GOLF F(M)(720)" group-title="ESPAÑA",ESP - MOVISTARr GOLF F(M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161954.m3u8
-#EXTINF:-1 tvg-name="ESP - MTV ESPAÑA (M)(720)" group-title="ESPAÑA",ESP - MTV ESPAÑA (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161999.m3u8
-#EXTINF:-1 tvg-name="ESP - Mundo Toros (TV)(720)" group-title="ESPAÑA",ESP - Mundo Toros (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8217.m3u8
-#EXTINF:-1 tvg-name="ESP - NAT GEO (M)(720)" group-title="ESPAÑA",ESP - NAT GEO (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161998.m3u8
-#EXTINF:-1 tvg-name="ESP - NAT GEO WILD (M)(720)" group-title="ESPAÑA",ESP - NAT GEO WILD (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161997.m3u8
-#EXTINF:-1 tvg-name="ESP - Nat Geo Wild (TV)(1080)" group-title="ESPAÑA",ESP - Nat Geo Wild (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8218.m3u8
-#EXTINF:-1 tvg-name="ESP - NATIONAL GEO WILD (M)(720)" group-title="ESPAÑA",ESP - NATIONAL GEO WILD (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162014.m3u8
-#EXTINF:-1 tvg-name="ESP - National Geographic (TV)(1080)" group-title="ESPAÑA",ESP - National Geographic (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8221.m3u8
-#EXTINF:-1 tvg-name="ESP - Neox (M)(720)" group-title="ESPAÑA",ESP - Neox (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161889.m3u8
-#EXTINF:-1 tvg-name="ESP - Neox (TV)(SD)" group-title="ESPAÑA",ESP - Neox (TV)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8223.m3u8
-#EXTINF:-1 tvg-name="ESP - NICK JUNIOR (M)(720)" group-title="ESPAÑA",ESP - NICK JUNIOR (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161996.m3u8
-#EXTINF:-1 tvg-name="ESP - NICKELODEON  (M)(720)" group-title="ESPAÑA",ESP - NICKELODEON  (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161885.m3u8
-#EXTINF:-1 tvg-name="ESP - NICKELODEON (M)(720)" group-title="ESPAÑA",ESP - NICKELODEON (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161995.m3u8
-#EXTINF:-1 tvg-name="ESP - Nickelodeon (TV)(1080)" group-title="ESPAÑA",ESP - Nickelodeon (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8226.m3u8
-#EXTINF:-1 tvg-name="ESP - Nova (M)(720)" group-title="ESPAÑA",ESP - Nova (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161983.m3u8
-#EXTINF:-1 tvg-name="ESP - ODESEA (M)(720)" group-title="ESPAÑA",ESP - ODESEA (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161994.m3u8
-#EXTINF:-1 tvg-name="ESP - Odisea (M)(720)" group-title="ESPAÑA",ESP - Odisea (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161911.m3u8
-#EXTINF:-1 tvg-name="ESP - Odisea (TV)(720)" group-title="ESPAÑA",ESP - Odisea (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8229.m3u8
-#EXTINF:-1 tvg-name="ESP - PANDA (M)(720)" group-title="ESPAÑA",ESP - PANDA (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161993.m3u8
-#EXTINF:-1 tvg-name="ESP - Paramount Channel (TV)(720)" group-title="ESPAÑA",ESP - Paramount Channel (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8231.m3u8
-#EXTINF:-1 tvg-name="ESP - PARAMOUNT NETWORK (M)(720)" group-title="ESPAÑA",ESP - PARAMOUNT NETWORK (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161992.m3u8
-#EXTINF:-1 tvg-name="ESP - SERIES MANIA F(M)(720)" group-title="ESPAÑA",ESP - SERIES MANIA F(M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161881.m3u8
-#EXTINF:-1 tvg-name="ESP - SOMOS (TV)(1080)" group-title="ESPAÑA",ESP - SOMOS (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8234.m3u8
-#EXTINF:-1 tvg-name="ESP - SUNDANCE (M)(720)" group-title="ESPAÑA",ESP - SUNDANCE (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161991.m3u8
-#EXTINF:-1 tvg-name="ESP - SYFY (M)(720)" group-title="ESPAÑA",ESP - SYFY (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161990.m3u8
-#EXTINF:-1 tvg-name="ESP - SYFY (M)(720)" group-title="ESPAÑA",ESP - SYFY (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162015.m3u8
-#EXTINF:-1 tvg-name="ESP - TAQUILLA 2 (M)(720)" group-title="ESPAÑA",ESP - TAQUILLA 2 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161946.m3u8
-#EXTINF:-1 tvg-name="ESP - TAQUILLA 3 (M)(720)" group-title="ESPAÑA",ESP - TAQUILLA 3 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161947.m3u8
-#EXTINF:-1 tvg-name="ESP - TCM (M)(720)" group-title="ESPAÑA",ESP - TCM (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161989.m3u8
-#EXTINF:-1 tvg-name="ESP - TCM (M)(720)" group-title="ESPAÑA",ESP - TCM (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162016.m3u8
-#EXTINF:-1 tvg-name="ESP - TCM (TV)(1080)" group-title="ESPAÑA",ESP - TCM (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8239.m3u8
-#EXTINF:-1 tvg-name="ESP - Telecinco (M)(720)" group-title="ESPAÑA",ESP - Telecinco (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161893.m3u8
-#EXTINF:-1 tvg-name="ESP - Telecinco (TV)(1080)" group-title="ESPAÑA",ESP - Telecinco (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8241.m3u8
-#EXTINF:-1 tvg-name="ESP - Telecinco (TV)(720)" group-title="ESPAÑA",ESP - Telecinco (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8242.m3u8
-#EXTINF:-1 tvg-name="ESP - Teledeporte (M)(720)" group-title="ESPAÑA",ESP - Teledeporte (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161951.m3u8
-#EXTINF:-1 tvg-name="ESP - Teledeporte (TV)(1080)" group-title="ESPAÑA",ESP - Teledeporte (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8243.m3u8
-#EXTINF:-1 tvg-name="ESP - TELEMADRID (M)(720)" group-title="ESPAÑA",ESP - TELEMADRID (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161988.m3u8
-#EXTINF:-1 tvg-name="ESP - TNT (M)(720)" group-title="ESPAÑA",ESP - TNT (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161898.m3u8
-#EXTINF:-1 tvg-name="ESP - TNT (M)(720)" group-title="ESPAÑA",ESP - TNT (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161987.m3u8
-#EXTINF:-1 tvg-name="ESP - TOROS (M)(720)" group-title="ESPAÑA",ESP - TOROS (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161948.m3u8
-#EXTINF:-1 tvg-name="ESP - TRECE TV (M)(720)" group-title="ESPAÑA",ESP - TRECE TV (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161949.m3u8
-#EXTINF:-1 tvg-name="ESP - TVE 24H (M)(720)" group-title="ESPAÑA",ESP - TVE 24H (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161950.m3u8
-#EXTINF:-1 tvg-name="ESP - TVE LA 1 (M)(720)" group-title="ESPAÑA",ESP - TVE LA 1 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162008.m3u8
-#EXTINF:-1 tvg-name="ESP - TVE LA 2 (M)(720)" group-title="ESPAÑA",ESP - TVE LA 2 (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/162007.m3u8
-#EXTINF:-1 tvg-name="ESP - VIAJAR (M)(720)" group-title="ESPAÑA",ESP - VIAJAR (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/161986.m3u8
-#EXTINF:-1 tvg-name="ESP - XTRM (TV)(1080)" group-title="ESPAÑA",ESP - XTRM (TV)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/8254.m3u8
-#EXTINF:-1 tvg-name="INF-Baby First (M)(SD)" group-title="CANALES-INFANTILES",INF-Baby First (M)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9854.m3u8
-#EXTINF:-1 tvg-name="INF-Baby TV (Z)(1080)" group-title="CANALES-INFANTILES",INF-Baby TV (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9855.m3u8
-#EXTINF:-1 tvg-name="INF-Boomerang (Z)" group-title="CANALES-INFANTILES",INF-Boomerang (Z)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9857.m3u8
-#EXTINF:-1 tvg-name="INF-Cartoon Network (M)(1080)" group-title="CANALES-INFANTILES",INF-Cartoon Network (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9858.m3u8
-#EXTINF:-1 tvg-name="INF-Cartoon Network (M)(SD)" group-title="CANALES-INFANTILES",INF-Cartoon Network (M)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9859.m3u8
-#EXTINF:-1 tvg-name="INF-Cartoon Network (Z)(720)" group-title="CANALES-INFANTILES",INF-Cartoon Network (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9861.m3u8
-#EXTINF:-1 tvg-name="INF-Cartoonito (M)(1080)" group-title="CANALES-INFANTILES",INF-Cartoonito (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9856.m3u8
-#EXTINF:-1 tvg-name="INF-Discovery Kids (M)(1080)" group-title="CANALES-INFANTILES",INF-Discovery Kids (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9862.m3u8
-#EXTINF:-1 tvg-name="INF-Discovery Kids (M)(SD)" group-title="CANALES-INFANTILES",INF-Discovery Kids (M)(SD)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9863.m3u8
-#EXTINF:-1 tvg-name="INF-Discovery Kids (TV)(720)" group-title="CANALES-INFANTILES",INF-Discovery Kids (TV)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9864.m3u8
-#EXTINF:-1 tvg-name="INF-Discovery Kids (Z)(1080)" group-title="CANALES-INFANTILES",INF-Discovery Kids (Z)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9865.m3u8
-#EXTINF:-1 tvg-name="INF-Disney Channel (M)(1080)" group-title="CANALES-INFANTILES",INF-Disney Channel (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9866.m3u8
-#EXTINF:-1 tvg-name="INF-Disney Channel (Z)" group-title="CANALES-INFANTILES",INF-Disney Channel (Z)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9867.m3u8
-#EXTINF:-1 tvg-name="INF-Disney JR (L)(1080)" group-title="CANALES-INFANTILES",INF-Disney JR (L)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9868.m3u8
-#EXTINF:-1 tvg-name="INF-Disney Jr (M)(1080)" group-title="CANALES-INFANTILES",INF-Disney Jr (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9869.m3u8
-#EXTINF:-1 tvg-name="INF-Disney JR (Z)(720)" group-title="CANALES-INFANTILES",INF-Disney JR (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9870.m3u8
-#EXTINF:-1 tvg-name="INF-Nick (M)(720)" group-title="CANALES-INFANTILES",INF-Nick (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9871.m3u8
-#EXTINF:-1 tvg-name="INF-Nick (Z)(720)" group-title="CANALES-INFANTILES",INF-Nick (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9872.m3u8
-#EXTINF:-1 tvg-name="INF-Nick 2 (Z)(720)" group-title="CANALES-INFANTILES",INF-Nick 2 (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9874.m3u8
-#EXTINF:-1 tvg-name="INF-Nick Jr (M)(1080)" group-title="CANALES-INFANTILES",INF-Nick Jr (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9875.m3u8
-#EXTINF:-1 tvg-name="INF-Nick Jr (M)(720)" group-title="CANALES-INFANTILES",INF-Nick Jr (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9876.m3u8
-#EXTINF:-1 tvg-name="INF-Nick JR (Z)(720)" group-title="CANALES-INFANTILES",INF-Nick JR (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9877.m3u8
-#EXTINF:-1 tvg-name="INF-Nick Music (L)(720)" group-title="CANALES-INFANTILES",INF-Nick Music (L)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9878.m3u8
-#EXTINF:-1 tvg-name="INF-Nickelodeon (M)(720)" group-title="CANALES-INFANTILES",INF-Nickelodeon (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9879.m3u8
-#EXTINF:-1 tvg-name="INF-Nicktoon (Z)" group-title="CANALES-INFANTILES",INF-Nicktoon (Z)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9881.m3u8
-#EXTINF:-1 tvg-name="INF-Nicktoons (M)(720)" group-title="CANALES-INFANTILES",INF-Nicktoons (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9882.m3u8
-#EXTINF:-1 tvg-name="INF-TeenNick (M)(1080)" group-title="CANALES-INFANTILES",INF-TeenNick (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9873.m3u8
-#EXTINF:-1 tvg-name="INF-Tooncast (M)(720)" group-title="CANALES-INFANTILES",INF-Tooncast (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9883.m3u8
-#EXTINF:-1 tvg-name="INF-Tooncast (Z)(720)" group-title="CANALES-INFANTILES",INF-Tooncast (Z)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/9884.m3u8
-#EXTINF:-1 tvg-name="NOT-BBC World News (M)(720)" group-title="CANALES-NOTICIA",NOT-BBC World News (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/10250.m3u8
-#EXTINF:-1 tvg-name="NOT-CNN en Español (M)(1080)" group-title="CANALES-NOTICIA",NOT-CNN en Español (M)(1080)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/10251.m3u8
-#EXTINF:-1 tvg-name="NOT-CNN en Español (M)(720)" group-title="CANALES-NOTICIA",NOT-CNN en Español (M)(720)
-http://live.proyectoxpro.com:8080/live/creationsinc1/d19101ed8494/10252.m3u8
+#EXTM3U url- TV Casa
+tvg="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/smithers/guia-de-programacion.xml?sincompresion"
+
+# Noticias
+
+#EXTINF:-1 tvg-id="0222" tvg-name="A24" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/3840px-A24_%282025%29.svg.png", A24
+http://181.209.38.115:8000/play/a002/index.m3u8
+
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://files.catbox.moe/n6c2ol.png", Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png", TN
+#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+
+#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png", Crónica TV
+http://138.59.227.20:8000/play/a05w/index.m3u8
+
+#EXTINF:-1 tvg-id="0964" tvg-name="+Perfil" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/%2BPerfil_Logo_2026.png", +Perfil
+https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="LN+" group-title="Noticias" tvg-logo="https://w7.pngwing.com/pngs/168/7/png-transparent-la-nacion-hd-logo-thumbnail.png", LN+
+http://138.59.227.20:8000/play/a05y/index.m3u8
+
+#EXTINF:-1 tvg-id="0932" tvg-name="C5N" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/3840px-C5N_2017_Alternate.svg.png", C5N
+http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-c5n.playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="0964" tvg-name="IP Noticias" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/IP_Noticias_logo.png", IP Noticias
+http://45.226.28.9:8085/Live/86699d245e0a356c43815f61a250da6a/local-ar12_720.m3u8
+
+#EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 Español
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="0205" tvg-name="DW" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/3840px-Deutsche_Welle_symbol_2012.svg.png",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+# General
+
+#EXTINF:-1 tvg-id="0909" tvg-name="Telefe" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe
+http://200.91.32.158:8080/telefehdvalle/index.m3u8
+
+#EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="General/Abierta" tvg-logo="https://static.flow.com.ar/images/76/CH_LOGO/60/40/0/0/93367508072808.png", Canal 9 
+http://multicanalpro.com/live/Centeno70384/Cochitv36145/712709.ts
+
+#EXTINF:-1 tvg-id="0903" tvg-name="TV Pública" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/kezveb.png", TV Publica
+http://181.209.38.115:8000/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/3840px-Logotipo_de_America_TV.svg.png", América TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+
+#EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/ql9rbg.png", Canal de la Ciudad
+https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/505e9l.png", Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
+
+#EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" , Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+#EXTINF:-1 tvg-id="0912" tvg-name="Argentinisima Satelital" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/lk049e.png" , Argentinisima Satelital 
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1 tvg-id="0918" tvg-name="Metro" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/2ytnhu.png", Metro
+http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-metro.playlist.m3u8
+
+# Deportes
+
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/280/CH_LOGO/60/40/0/0/71306601073189.png" group-title="Deportes", ESPN
+http://138.59.227.20:8000/play/a099/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/60/40/0/0/92564610073951.png" group-title="Deportes", ESPN Premium
+http://138.59.227.20:8000/play/a086/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/74/CH_LOGO/60/40/0/0/78711436072355.png" group-title="Deportes", TyC Sports
+http://138.59.227.20:8000/play/a06x/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/73/CH_LOGO/60/40/0/0/3694361407979.png" group-title="Deportes", FOX Sports
+http://138.59.227.20:8000/play/a085/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png" group-title="Deportes", TNT Sports
+http://138.59.227.20:8000/play/a06z/index.m3u8
+
+# España
+
+#EXTINF:-1   tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="España", 24h
+http://multicanalpro.com/live/Centeno70384/Cochitv36145/414781.ts
+
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/729/CH_LOGO/60/40/0/0/778293230765.png" group-title="España", Galicia TV
+http://138.59.227.20:8000/play/a06v/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/728/CH_LOGO/60/40/0/0/834899000759.png" group-title="España", TVE
+http://138.59.227.20:8000/play/a080/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1200px-Antena_3_Internacional_logo_2017.svg.png" group-title="España", Antena 3
+http://dalive.site:8080/live/ZONATV19334/8WZUC6pcu2/138499.ts
+
+# Entretenimiento
+
+#EXTINF:-1 tvg-id="0907" tvg-name="Canal 9 Multivisión" group-title="Entretenimiento" tvg-logo="https://files.catbox.moe/iqx1h4.png",Canal 9 Multivisión
+https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
+
+#EXTINF:-1 tvg-id="0615" tvg-name="Telemundo Internacional" group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/3840px-Telemundo_logo_2018.svg.png", Telemundo Internacional 
+http://177.234.249.178:8888/TELEMUNDO/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/685/CH_LOGO/60/40/0/0/3943988507358.png" group-title="Entretenimiento", GarageTV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/1920px-Cartoon_Network_HD_logo.svg.png", Cartoon_Network
+http://38.44.109.41:8003/play/a0ef/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="0967" tvg-name="El Rincón de los Simpsons" group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/The_logo_simpsons_yellow.png", El Rincón de los Simpsons
+https://live20.bozztv.com/giatvplayout7/giatv-211492/playlist.m3u8
