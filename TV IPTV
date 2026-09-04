@@ -6,7 +6,7 @@ tvg="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/smithe
 #EXTINF:-1 tvg-id="0222" tvg-name="A24" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/3840px-A24_%282025%29.svg.png", A24
 http://181.209.38.115:8000/play/a002/index.m3u8
 
-#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://files.catbox.moe/n6c2ol.png", Canal 26
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://i.imgur.com/5pAaVih.png", Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png", TN
@@ -26,7 +26,6 @@ http://138.59.227.20:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="0932" tvg-name="C5N" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/3840px-C5N_2017_Alternate.svg.png", C5N
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-c5n.playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="0964" tvg-name="IP Noticias" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/IP_Noticias_logo.png", IP Noticias
 http://45.226.28.9:8085/Live/86699d245e0a356c43815f61a250da6a/local-ar12_720.m3u8
 
@@ -35,6 +34,9 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 tvg-id="0205" tvg-name="DW" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/3840px-Deutsche_Welle_symbol_2012.svg.png",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+#EXTINF:-1 tvg-name="El Destape" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAuXDwiY8UPwtAHrGXTXkAxBjdRqws2MJIN2A=s900-mo-c-c0xffffffff-rj-k-no" tvg-id="ElDestape.ar" tvg-chno="24.6" tvg-country="AR" group-title="Noticias",El Destape Ⓨ
+https://www.youtube.com/c/eldestapetv/live
 
 # General
 
