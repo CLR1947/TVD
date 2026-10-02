@@ -85,7 +85,7 @@ http://iptvpremium.ink:55577/juscsl54/748596js/167227
 http://138.59.227.20:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/250?cb=20180301233804" group-title="Deportes", DTV
-https://live91.videxhd.sbs/latamplay/dsports/index.m3u8?api=1234
+http://restreamlatam.online:80/play/9juIprfRMreGgHoj5sTzKODcR_Df6thAtX4-hU3lRGE/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="Deportes", DAZN F1
 https://live91.videxhd.sbs/latamplay/daznf1/index.m3u8?api=1234
