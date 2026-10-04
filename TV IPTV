@@ -12,7 +12,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Noticias", Crónica TV
-http://138.59.227.20:8000/play/a05w/index.m3u8
+http://181.209.38.115:8000/play/a005/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/%2BPerfil_Logo_2026.png" group-title="Noticias", +Perfil
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
@@ -76,13 +76,13 @@ http://181.209.38.115:8000/play/a00b/index.m3u8
 http://181.209.38.115:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/TYC94.png/revision/latest/scale-to-width-down/1000?cb=20200711033423" group-title="Deportes", TyC Sports
-http://138.59.227.20:8000/play/a06x/index.m3u8
+http://181.209.38.115:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-logo="="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg" group-title="Deportes", FOX Sports
 http://iptvpremium.ink:55577/juscsl54/748596js/167227
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Deportes", TNT Sports
-http://138.59.227.20:8000/play/a06z/index.m3u8
+http://181.209.38.115:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/250?cb=20180301233804" group-title="Deportes", DTV
 http://restreamlatam.online:80/play/9juIprfRMreGgHoj5sTzKODcR_Df6thAtX4-hU3lRGE/ts
